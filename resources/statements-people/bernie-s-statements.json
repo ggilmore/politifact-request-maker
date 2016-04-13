@@ -1,0 +1,3243 @@
+[
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2016/apr/12/hillary-clinton/look-hillary-clintons-claim-about-vermonts-gun-pip/",
+  "target": [
+   {
+    "party": {
+     "party": "Independent",
+     "party_slug": "independent"
+    },
+    "first_name": "Bernie",
+    "last_name": "Sanders",
+    "name_slug": "bernie-s",
+    "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FBernie_Sanders.jpg"
+   }
+  ],
+  "statement_date": "2016-04-11",
+  "statement_context": "an event in Port Washington, N.Y.",
+  "speaker": {
+   "party": {
+    "party": "Democrat",
+    "party_slug": "democrat"
+   },
+   "first_name": "Hillary",
+   "last_name": "Clinton",
+   "name_slug": "hillary-clinton",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2Fclinton_mug.jpg"
+  },
+  "ruling_headline": "A look at Hillary Clinton's claim about Vermont's gun pipeline to New York",
+  "statement": "\u003cp\u003e\u0026quot;The state that has the highest per capita number of \u0026hellip; guns that end up committing crimes in New York come from Vermont.\u0026quot;\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "half-true",
+   "ruling": "Half-True",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-halftrue.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2016-04-12 16:57:15",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Crime",
+    "subject_slug": "crime"
+   },
+   {
+    "subject": "Guns",
+    "subject_slug": "guns"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2016/apr/11/bernie-s/sanders-us-multinationals-would-owe-620-billion-ov/",
+  "target": [],
+  "statement_date": "2016-04-06",
+  "statement_context": "a tweet",
+  "speaker": {
+   "party": {
+    "party": "Independent",
+    "party_slug": "independent"
+   },
+   "first_name": "Bernie",
+   "last_name": "Sanders",
+   "name_slug": "bernie-s",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FBernie_Sanders.jpg"
+  },
+  "ruling_headline": "Sanders: U.S. multinationals would owe $620 billion on overseas profits",
+  "statement": "\u003cp\u003e\u0026quot;The largest U.S. companies would owe $620 billion in U.S. taxes on the cash they store in tax havens.\u0026quot;\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "mostly-true",
+   "ruling": "Mostly True",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-mostlytrue.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2016-04-11 11:41:35",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Corporations",
+    "subject_slug": "corporations"
+   },
+   {
+    "subject": "Taxes",
+    "subject_slug": "taxes"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2016/apr/10/bernie-s/clinton-voted-virtually-every-trade-agreement-kill/",
+  "target": [
+   {
+    "party": {
+     "party": "Democrat",
+     "party_slug": "democrat"
+    },
+    "first_name": "Hillary",
+    "last_name": "Clinton",
+    "name_slug": "hillary-clinton",
+    "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2Fclinton_mug.jpg"
+   }
+  ],
+  "statement_date": "2016-04-10",
+  "statement_context": "an interview on NBC's \"Meet the Press\"",
+  "speaker": {
+   "party": {
+    "party": "Independent",
+    "party_slug": "independent"
+   },
+   "first_name": "Bernie",
+   "last_name": "Sanders",
+   "name_slug": "bernie-s",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FBernie_Sanders.jpg"
+  },
+  "ruling_headline": "Clinton voted for 'virtually every' trade agreement, killing millions of jobs, Sanders says",
+  "statement": "\u003cp\u003eSays Hillary Clinton voted \u0026quot;for virtually every trade agreement that has cost the workers of this country millions of jobs.\u0026quot;\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "half-true",
+   "ruling": "Half-True",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-halftrue.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2016-04-10 17:29:31",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Candidate Biography",
+    "subject_slug": "candidates-biography"
+   },
+   {
+    "subject": "Jobs",
+    "subject_slug": "jobs"
+   },
+   {
+    "subject": "Trade",
+    "subject_slug": "trade"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2016/apr/07/bernie-s/bernie-sanders-not-qualified-be-president-hillary-/",
+  "target": [],
+  "statement_date": "2016-04-06",
+  "statement_context": "a speech at Temple University",
+  "speaker": {
+   "party": {
+    "party": "Independent",
+    "party_slug": "independent"
+   },
+   "first_name": "Bernie",
+   "last_name": "Sanders",
+   "name_slug": "bernie-s",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FBernie_Sanders.jpg"
+  },
+  "ruling_headline": "Did Hillary Clinton say Bernie Sanders 'not qualified' to be president? Not directly",
+  "statement": "\u003cp\u003eSays Hillary Clinton \u0026quot;has been saying lately that she thinks that I am, \u0026#39;not qualified\u0026nbsp;to be president.\u0026#39;\u0026nbsp;\u0026quot;\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "barely-true",
+   "ruling": "Mostly False",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-mostlyfalse.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2016-04-07 16:05:34",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Candidate Biography",
+    "subject_slug": "candidates-biography"
+   },
+   {
+    "subject": "Elections",
+    "subject_slug": "elections"
+   },
+   {
+    "subject": "Negative Campaigning",
+    "subject_slug": "campaign-advertising"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2016/apr/06/bernie-s/bernie-sanders-has-released-few-tax-returns-compar/",
+  "target": [],
+  "statement_date": "2016-04-03",
+  "statement_context": "an interview with CNN's Jake Tapper",
+  "speaker": {
+   "party": {
+    "party": "Independent",
+    "party_slug": "independent"
+   },
+   "first_name": "Bernie",
+   "last_name": "Sanders",
+   "name_slug": "bernie-s",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FBernie_Sanders.jpg"
+  },
+  "ruling_headline": "Bernie Sanders has released few tax returns compared with past and present candidates",
+  "statement": "\u003cp\u003eSays his campaign has released his past tax returns.\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "false",
+   "ruling": "False",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-false.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2016-04-06 12:16:54",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Candidate Biography",
+    "subject_slug": "candidates-biography"
+   },
+   {
+    "subject": "Taxes",
+    "subject_slug": "taxes"
+   },
+   {
+    "subject": "Transparency",
+    "subject_slug": "transparency"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2016/apr/04/bernie-s/bernie-sanders-says-wall-street-tax-would-pay-his-/",
+  "target": [],
+  "statement_date": "2016-03-30",
+  "statement_context": "a CNN interview",
+  "speaker": {
+   "party": {
+    "party": "Independent",
+    "party_slug": "independent"
+   },
+   "first_name": "Bernie",
+   "last_name": "Sanders",
+   "name_slug": "bernie-s",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FBernie_Sanders.jpg"
+  },
+  "ruling_headline": "Bernie Sanders says Wall Street tax would pay for his free tuition plan",
+  "statement": "\u003cp\u003eSays his free public university tuition program \u0026quot;is paid for \u0026hellip; by a tax on Wall Street\u0026#39;s speculation.\u0026quot;\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "barely-true",
+   "ruling": "Mostly False",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-mostlyfalse.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2016-04-04 10:49:27",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Education",
+    "subject_slug": "education"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2016/mar/24/bernie-s/bernie-sanders-was-roll-call-amendment-king-1995-2/",
+  "target": [],
+  "statement_date": "2016-02-13",
+  "statement_context": "an a television ad",
+  "speaker": {
+   "party": {
+    "party": "Independent",
+    "party_slug": "independent"
+   },
+   "first_name": "Bernie",
+   "last_name": "Sanders",
+   "name_slug": "bernie-s",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FBernie_Sanders.jpg"
+  },
+  "ruling_headline": "Bernie Sanders was the roll call amendment king from 1995 to 2007",
+  "statement": "\u003cp\u003e\u0026quot;Bernie Sanders passed more roll call amendments in a Republican Congress than any other member.\u0026quot;\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "true",
+   "ruling": "True",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Frulings%2Frulings-tom-true.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2016-03-24 15:00:45",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Candidate Biography",
+    "subject_slug": "candidates-biography"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2016/mar/10/hillary-clinton/hillary-clinton-says-bernie-sanders-supported-minu/",
+  "target": [
+   {
+    "party": {
+     "party": "Independent",
+     "party_slug": "independent"
+    },
+    "first_name": "Bernie",
+    "last_name": "Sanders",
+    "name_slug": "bernie-s",
+    "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FBernie_Sanders.jpg"
+   }
+  ],
+  "statement_date": "2016-03-09",
+  "statement_context": "a Democratic presidential debate in Miami",
+  "speaker": {
+   "party": {
+    "party": "Democrat",
+    "party_slug": "democrat"
+   },
+   "first_name": "Hillary",
+   "last_name": "Clinton",
+   "name_slug": "hillary-clinton",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2Fclinton_mug.jpg"
+  },
+  "ruling_headline": "Hillary Clinton says Bernie Sanders supported Minutemen, indefinite detention for the undocumented",
+  "statement": "\u003cp\u003eIn 2006, Bernie Sanders \u0026quot;voted in the House with hard-line Republicans for indefinite detention for undocumented immigrants, and then he sided with those Republicans to stand with vigilantes known as Minutemen who were taking up outposts along the border to hunt down immigrants.\u0026quot;\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "mostly-true",
+   "ruling": "Mostly True",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-mostlytrue.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2016-03-10 15:41:52",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Immigration",
+    "subject_slug": "immigration"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2016/mar/10/hillary-clinton/hillary-clinton-says-bernie-sanders-wants-delay-cl/",
+  "target": [
+   {
+    "party": {
+     "party": "Independent",
+     "party_slug": "independent"
+    },
+    "first_name": "Bernie",
+    "last_name": "Sanders",
+    "name_slug": "bernie-s",
+    "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FBernie_Sanders.jpg"
+   }
+  ],
+  "statement_date": "2016-03-09",
+  "statement_context": "in the Democratic debate in Florida",
+  "speaker": {
+   "party": {
+    "party": "Democrat",
+    "party_slug": "democrat"
+   },
+   "first_name": "Hillary",
+   "last_name": "Clinton",
+   "name_slug": "hillary-clinton",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2Fclinton_mug.jpg"
+  },
+  "ruling_headline": "Hillary Clinton wrongly says Bernie Sanders wants to delay the Clean Power Plan",
+  "statement": "\u003cp\u003e\u0026quot;The Clean Power Plan is something that Sen. Sanders has said he would delay implementing.\u0026quot;\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "false",
+   "ruling": "False",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-false.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2016-03-10 01:07:33",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Climate Change",
+    "subject_slug": "climate-change"
+   },
+   {
+    "subject": "Environment",
+    "subject_slug": "environment"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2016/mar/10/bernie-s/bernie-sanders-statistic-black-hispanic-unemployme/",
+  "target": [],
+  "statement_date": "2016-03-09",
+  "statement_context": "a Democratic presidential debate in Miami",
+  "speaker": {
+   "party": {
+    "party": "Independent",
+    "party_slug": "independent"
+   },
+   "first_name": "Bernie",
+   "last_name": "Sanders",
+   "name_slug": "bernie-s",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FBernie_Sanders.jpg"
+  },
+  "ruling_headline": "Bernie Sanders' statistic on black, Hispanic unemployment has merit, but may be out of date",
+  "statement": "\u003cp\u003e\u0026quot;If you look at Latino kids between 17 and 20 who graduated high school, 36 percent of them are unemployed or underemployed. \u0026hellip; African-American kids are unemployed or underemployed to the tune of 51 percent.\u0026quot;\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "mostly-true",
+   "ruling": "Mostly True",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-mostlytrue.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2016-03-10 00:27:48",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Diversity",
+    "subject_slug": "diversity"
+   },
+   {
+    "subject": "Economy",
+    "subject_slug": "economy"
+   },
+   {
+    "subject": "Jobs",
+    "subject_slug": "jobs"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2016/mar/09/bernie-s/sanders-said-clinton-backed-return-undocumented-ki/",
+  "target": [
+   {
+    "party": {
+     "party": "Democrat",
+     "party_slug": "democrat"
+    },
+    "first_name": "Hillary",
+    "last_name": "Clinton",
+    "name_slug": "hillary-clinton",
+    "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2Fclinton_mug.jpg"
+   }
+  ],
+  "statement_date": "2016-03-09",
+  "statement_context": "the Democratic debate at Miami Dade College",
+  "speaker": {
+   "party": {
+    "party": "Independent",
+    "party_slug": "independent"
+   },
+   "first_name": "Bernie",
+   "last_name": "Sanders",
+   "name_slug": "bernie-s",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FBernie_Sanders.jpg"
+  },
+  "ruling_headline": "Sanders said Clinton backed return for undocumented kids",
+  "statement": "\u003cp\u003eWhen Honduran children came into this country, \u0026quot;Secretary Clinton said send them back.\u0026quot;\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "mostly-true",
+   "ruling": "Mostly True",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-mostlytrue.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2016-03-09 23:48:43",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Immigration",
+    "subject_slug": "immigration"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2016/mar/08/bernie-s/bernie-sanders-says-he-consistently-beats-donald-t/",
+  "target": [
+   {
+    "party": {
+     "party": "Democrat",
+     "party_slug": "democrat"
+    },
+    "first_name": "Hillary",
+    "last_name": "Clinton",
+    "name_slug": "hillary-clinton",
+    "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2Fclinton_mug.jpg"
+   },
+   {
+    "party": {
+     "party": "Republican",
+     "party_slug": "republican"
+    },
+    "first_name": "Donald",
+    "last_name": "Trump",
+    "name_slug": "donald-trump",
+    "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2Ftrump_1.jpg"
+   }
+  ],
+  "statement_date": "2016-03-06",
+  "statement_context": "a Democratic presidential debate in Flint, Mich.",
+  "speaker": {
+   "party": {
+    "party": "Independent",
+    "party_slug": "independent"
+   },
+   "first_name": "Bernie",
+   "last_name": "Sanders",
+   "name_slug": "bernie-s",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FBernie_Sanders.jpg"
+  },
+  "ruling_headline": "Bernie Sanders says he consistently beats Donald Trump by bigger margins than Hillary Clinton does",
+  "statement": "\u003cp\u003e\u0026quot;Almost every poll has shown that Sanders vs. Trump does a lot better than Clinton vs. Trump \u0026hellip; and, that\u0026rsquo;s true nationally.\u0026quot;\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "mostly-true",
+   "ruling": "Mostly True",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-mostlytrue.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2016-03-08 13:54:38",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Polls and Public Opinion",
+    "subject_slug": "polls"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2016/mar/08/bernie-s/bernie-sanders-says-he-consistently-beats-donald-t/",
+  "target": [
+   {
+    "party": {
+     "party": "Democrat",
+     "party_slug": "democrat"
+    },
+    "first_name": "Hillary",
+    "last_name": "Clinton",
+    "name_slug": "hillary-clinton",
+    "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2Fclinton_mug.jpg"
+   },
+   {
+    "party": {
+     "party": "Republican",
+     "party_slug": "republican"
+    },
+    "first_name": "Donald",
+    "last_name": "Trump",
+    "name_slug": "donald-trump",
+    "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2Ftrump_1.jpg"
+   }
+  ],
+  "statement_date": "2016-03-06",
+  "statement_context": "a Democratic presidential debate in Flint, Mich.",
+  "speaker": {
+   "party": {
+    "party": "Independent",
+    "party_slug": "independent"
+   },
+   "first_name": "Bernie",
+   "last_name": "Sanders",
+   "name_slug": "bernie-s",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FBernie_Sanders.jpg"
+  },
+  "ruling_headline": "Bernie Sanders says he consistently beats Donald Trump by bigger margins than Hillary Clinton does",
+  "statement": "\u003cp\u003e\u0026quot;Almost every poll has shown that Sanders vs. Trump does a lot better than Clinton vs. Trump \u0026hellip; and, that\u0026rsquo;s true nationally.\u0026quot;\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "mostly-true",
+   "ruling": "Mostly True",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-mostlytrue.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2016-03-08 13:54:38",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Polls and Public Opinion",
+    "subject_slug": "polls"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2016/mar/07/bernie-s/flint-residents-dont-pay-3-times-much-burlington-r/",
+  "target": [],
+  "statement_date": "2016-03-06",
+  "statement_context": "a Democratic debate in Flint, Mich.",
+  "speaker": {
+   "party": {
+    "party": "Independent",
+    "party_slug": "independent"
+   },
+   "first_name": "Bernie",
+   "last_name": "Sanders",
+   "name_slug": "bernie-s",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FBernie_Sanders.jpg"
+  },
+  "ruling_headline": "Bernie Sanders has a point: Water in Flint much more expensive than in Burlington",
+  "statement": "\u003cp\u003e\u0026quot;(Flint, Mich., is) paying three times more for poison water than I am paying in Burlington, Vt., for clean water.\u0026quot;\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "mostly-true",
+   "ruling": "Mostly True",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-mostlytrue.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2016-03-07 17:07:09",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "City Government",
+    "subject_slug": "city-government"
+   },
+   {
+    "subject": "Water",
+    "subject_slug": "water"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2016/mar/07/bernie-s/bernie-sanders-wrong-say-when-youre-white-you-dont/",
+  "target": [],
+  "statement_date": "2016-03-06",
+  "statement_context": "a Democratic debate in Flint, Mich.",
+  "speaker": {
+   "party": {
+    "party": "Independent",
+    "party_slug": "independent"
+   },
+   "first_name": "Bernie",
+   "last_name": "Sanders",
+   "name_slug": "bernie-s",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FBernie_Sanders.jpg"
+  },
+  "ruling_headline": "Bernie Sanders wrong to say, 'When you're white ... you don't know what it's like to be poor'",
+  "statement": "\u003cp\u003e\u0026quot;When you\u0026#39;re white ... you don\u0026#39;t know what it\u0026#39;s like to be poor.\u0026quot;\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "false",
+   "ruling": "False",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-false.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2016-03-07 17:01:11",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Diversity",
+    "subject_slug": "diversity"
+   },
+   {
+    "subject": "Economy",
+    "subject_slug": "economy"
+   },
+   {
+    "subject": "Income",
+    "subject_slug": "income"
+   },
+   {
+    "subject": "Poverty",
+    "subject_slug": "poverty"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2016/mar/07/bernie-s/sanders-overshoots-nafta-job-losses/",
+  "target": [],
+  "statement_date": "2016-03-06",
+  "statement_context": "the Democratic debate in Flint, Mich.",
+  "speaker": {
+   "party": {
+    "party": "Independent",
+    "party_slug": "independent"
+   },
+   "first_name": "Bernie",
+   "last_name": "Sanders",
+   "name_slug": "bernie-s",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FBernie_Sanders.jpg"
+  },
+  "ruling_headline": "Sanders overshoots on NAFTA job losses",
+  "statement": "\u003cp\u003e\u0026quot;NAFTA, supported by the Secretary (Clinton), cost us 800,000 jobs nationwide.\u0026quot;\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "barely-true",
+   "ruling": "Mostly False",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-mostlyfalse.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2016-03-07 15:02:58",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Jobs",
+    "subject_slug": "jobs"
+   },
+   {
+    "subject": "Trade",
+    "subject_slug": "trade"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2016/mar/02/bernie-s/sanders-welfare-reform-more-doubled-extreme-povert/",
+  "target": [],
+  "statement_date": "2016-02-24",
+  "statement_context": "a news conference",
+  "speaker": {
+   "party": {
+    "party": "Independent",
+    "party_slug": "independent"
+   },
+   "first_name": "Bernie",
+   "last_name": "Sanders",
+   "name_slug": "bernie-s",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FBernie_Sanders.jpg"
+  },
+  "ruling_headline": "Sanders: Welfare reform more than doubled 'extreme poverty'",
+  "statement": "\u003cp\u003e\u0026quot;Since (welfare reform) was signed into law, the number of families living in extreme poverty has more than doubled.\u0026quot;\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "mostly-true",
+   "ruling": "Mostly True",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-mostlytrue.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2016-03-02 17:30:34",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Welfare",
+    "subject_slug": "welfare"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2016/feb/28/bernie-s/bernie-sanders-chuck-todd-debate-crime-bill-vote-a/",
+  "target": [],
+  "statement_date": "2016-02-28",
+  "statement_context": "comments on \"Meet the Press\"",
+  "speaker": {
+   "party": {
+    "party": "Independent",
+    "party_slug": "independent"
+   },
+   "first_name": "Bernie",
+   "last_name": "Sanders",
+   "name_slug": "bernie-s",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FBernie_Sanders.jpg"
+  },
+  "ruling_headline": "Bernie Sanders, Chuck Todd debate crime bill vote, assault weapons ban",
+  "statement": "\u003cp\u003eSays he supported the 1994 crime bill because \u0026quot;there is a ban on assault weapons in that bill.\u0026quot;\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "half-true",
+   "ruling": "Half-True",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-halftrue.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2016-02-28 18:32:05",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Candidate Biography",
+    "subject_slug": "candidates-biography"
+   },
+   {
+    "subject": "Guns",
+    "subject_slug": "guns"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2016/feb/12/bernie-s/comparing-us-world-childhood-poverty-rates/",
+  "target": [],
+  "statement_date": "2016-02-11",
+  "statement_context": "comments during the PBS Democratic debate",
+  "speaker": {
+   "party": {
+    "party": "Independent",
+    "party_slug": "independent"
+   },
+   "first_name": "Bernie",
+   "last_name": "Sanders",
+   "name_slug": "bernie-s",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FBernie_Sanders.jpg"
+  },
+  "ruling_headline": "Reports' limitations plague Bernie Sanders' claim about high childhood poverty rates in the U.S.",
+  "statement": "\u003cp\u003eThe United States has \u0026quot;the highest rate of childhood poverty of almost any major country on Earth.\u0026quot;\u003c/p\u003e\r\n\r\n\u003cdiv\u003e\u0026nbsp;\u003c/div\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "half-true",
+   "ruling": "Half-True",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-halftrue.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2016-02-12 00:37:33",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Children",
+    "subject_slug": "children"
+   },
+   {
+    "subject": "Poverty",
+    "subject_slug": "poverty"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2016/feb/11/bernie-s/sanders-african-american-lost-half-their-wealth-be/",
+  "target": [],
+  "statement_date": "2016-02-11",
+  "statement_context": "comments during the PBS Democratic debate",
+  "speaker": {
+   "party": {
+    "party": "Independent",
+    "party_slug": "independent"
+   },
+   "first_name": "Bernie",
+   "last_name": "Sanders",
+   "name_slug": "bernie-s",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FBernie_Sanders.jpg"
+  },
+  "ruling_headline": "Sanders: African-Americans lost half their wealth because of Wall Street collapse",
+  "statement": "\u003cp\u003e\u0026quot;The African-American community lost half of their wealth as a result of the Wall Street collapse.\u0026quot;\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "true",
+   "ruling": "True",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Frulings%2Frulings-tom-true.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2016-02-11 22:54:40",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Diversity",
+    "subject_slug": "diversity"
+   },
+   {
+    "subject": "Financial Regulation",
+    "subject_slug": "financial-regulation"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2016/feb/11/bernie-s/bernie-sanders-has-correct-diagnosis-us-prescripti/",
+  "target": [],
+  "statement_date": "2016-02-11",
+  "statement_context": "a PBS Democratic debate",
+  "speaker": {
+   "party": {
+    "party": "Independent",
+    "party_slug": "independent"
+   },
+   "first_name": "Bernie",
+   "last_name": "Sanders",
+   "name_slug": "bernie-s",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FBernie_Sanders.jpg"
+  },
+  "ruling_headline": "Bernie Sanders has the correct diagnosis: U.S. prescription drug prices typically highest in world",
+  "statement": "\u003cp\u003e\u0026quot;In America, we pay, by far, the highest prices in the world for prescription drugs.\u0026quot;\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "mostly-true",
+   "ruling": "Mostly True",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-mostlytrue.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2016-02-11 21:56:57",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Economy",
+    "subject_slug": "economy"
+   },
+   {
+    "subject": "Health Care",
+    "subject_slug": "health-care"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2016/feb/09/bernie-s/bernie-sanders-offers-overheated-claim-where-all-r/",
+  "target": [],
+  "statement_date": "2016-02-04",
+  "statement_context": "a Democratic debate in New Hampshire",
+  "speaker": {
+   "party": {
+    "party": "Independent",
+    "party_slug": "independent"
+   },
+   "first_name": "Bernie",
+   "last_name": "Sanders",
+   "name_slug": "bernie-s",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FBernie_Sanders.jpg"
+  },
+  "ruling_headline": "Bernie Sanders offers overheated claim on where all Republicans stand on climate change",
+  "statement": "\u003cp\u003e\u0026quot;Not one Republican has the guts to recognize that climate change is real.\u0026quot;\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "false",
+   "ruling": "False",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-false.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2016-02-09 23:59:00",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Cap and Trade",
+    "subject_slug": "cap-and-trade"
+   },
+   {
+    "subject": "Climate Change",
+    "subject_slug": "climate-change"
+   },
+   {
+    "subject": "Debates",
+    "subject_slug": "debates"
+   },
+   {
+    "subject": "Economy",
+    "subject_slug": "economy"
+   },
+   {
+    "subject": "Energy",
+    "subject_slug": "energy"
+   },
+   {
+    "subject": "Environment",
+    "subject_slug": "environment"
+   },
+   {
+    "subject": "Government regulation",
+    "subject_slug": "government-regulation"
+   },
+   {
+    "subject": "Jobs",
+    "subject_slug": "jobs"
+   },
+   {
+    "subject": "Negative Campaigning",
+    "subject_slug": "campaign-advertising"
+   },
+   {
+    "subject": "Polls and Public Opinion",
+    "subject_slug": "polls"
+   },
+   {
+    "subject": "Public Safety",
+    "subject_slug": "public-safety"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2016/feb/07/bernie-s/foreign-policy-spat-bernie-sanders-suggests-madele/",
+  "target": [],
+  "statement_date": "2016-02-07",
+  "statement_context": "comments on Meet the Press",
+  "speaker": {
+   "party": {
+    "party": "Independent",
+    "party_slug": "independent"
+   },
+   "first_name": "Bernie",
+   "last_name": "Sanders",
+   "name_slug": "bernie-s",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FBernie_Sanders.jpg"
+  },
+  "ruling_headline": "In foreign policy spat, Bernie Sanders suggests Madeleine Albright supported Iraq invasion",
+  "statement": "\u003cdiv\u003e\u0026quot;Tell me what Madeleine Albright\u0026rsquo;s position was on the War on Iraq. I wouldn\u0026rsquo;t be surprised if she supported it.\u0026quot;\u0026nbsp;\u003c/div\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "barely-true",
+   "ruling": "Mostly False",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-mostlyfalse.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2016-02-07 15:32:47",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Foreign Policy",
+    "subject_slug": "foreign-policy"
+   },
+   {
+    "subject": "Iraq",
+    "subject_slug": "iraq"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2016/feb/07/hillary-clinton/hillary-clinton-really-isnt-any-foreign-policy-net/",
+  "target": [
+   {
+    "party": {
+     "party": "Independent",
+     "party_slug": "independent"
+    },
+    "first_name": "Bernie",
+    "last_name": "Sanders",
+    "name_slug": "bernie-s",
+    "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FBernie_Sanders.jpg"
+   }
+  ],
+  "statement_date": "2016-02-07",
+  "statement_context": "comments on Meet the Press",
+  "speaker": {
+   "party": {
+    "party": "Democrat",
+    "party_slug": "democrat"
+   },
+   "first_name": "Hillary",
+   "last_name": "Clinton",
+   "name_slug": "hillary-clinton",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2Fclinton_mug.jpg"
+  },
+  "ruling_headline": "Hillary Clinton says Bernie Sanders doesn't have a foreign policy adviser network ",
+  "statement": "\u003cp\u003e\u0026quot;There really isn\u0026rsquo;t any kind of foreign policy network that is supporting and advising Sen. Sanders.\u0026quot;\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "mostly-true",
+   "ruling": "Mostly True",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-mostlytrue.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2016-02-07 15:27:56",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Foreign Policy",
+    "subject_slug": "foreign-policy"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2016/feb/05/hillary-clinton/clinton-says-sanders-proposed-iranian-troops-syria/",
+  "target": [
+   {
+    "party": {
+     "party": "Independent",
+     "party_slug": "independent"
+    },
+    "first_name": "Bernie",
+    "last_name": "Sanders",
+    "name_slug": "bernie-s",
+    "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FBernie_Sanders.jpg"
+   }
+  ],
+  "statement_date": "2016-02-04",
+  "statement_context": "the Democratic debate in Durham, N.H.",
+  "speaker": {
+   "party": {
+    "party": "Democrat",
+    "party_slug": "democrat"
+   },
+   "first_name": "Hillary",
+   "last_name": "Clinton",
+   "name_slug": "hillary-clinton",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2Fclinton_mug.jpg"
+  },
+  "ruling_headline": "Clinton says Sanders proposed Iranian troops in Syria",
+  "statement": "\u003cp\u003eSays Bernie Sanders advocated putting \u0026quot;Iranian troops into Syria to try and resolve the conflict there. Putting them right on the doorstep of Israel.\u0026quot;\u003c/p\u003e\r\n\r\n\u003cdiv\u003e\u0026nbsp;\u003c/div\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "mostly-true",
+   "ruling": "Mostly True",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-mostlytrue.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2016-02-05 00:02:37",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Foreign Policy",
+    "subject_slug": "foreign-policy"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2016/feb/04/bernie-s/bernie-sanders-mistaken-about-whether-his-campaign/",
+  "target": [],
+  "statement_date": "2016-02-04",
+  "statement_context": "a Democratic presidential debate in Durham, N.H.",
+  "speaker": {
+   "party": {
+    "party": "Independent",
+    "party_slug": "independent"
+   },
+   "first_name": "Bernie",
+   "last_name": "Sanders",
+   "name_slug": "bernie-s",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FBernie_Sanders.jpg"
+  },
+  "ruling_headline": "Bernie Sanders mistaken about whether his campaign's ad had cited a nonexistent endorsement",
+  "statement": "\u003cp\u003eSays a Sanders campaign ad \u0026quot;never said ... a newspaper endorsed us that did not.\u0026quot;\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "false",
+   "ruling": "False",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-false.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2016-02-04 23:39:41",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Elections",
+    "subject_slug": "elections"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2016/feb/04/bernie-s/bernie-sanders-exaggerates-concentration-wealth-in/",
+  "target": [],
+  "statement_date": "2016-02-04",
+  "statement_context": "a Democratic debate on MSNBC",
+  "speaker": {
+   "party": {
+    "party": "Independent",
+    "party_slug": "independent"
+   },
+   "first_name": "Bernie",
+   "last_name": "Sanders",
+   "name_slug": "bernie-s",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FBernie_Sanders.jpg"
+  },
+  "ruling_headline": "Bernie Sanders exaggerates concentration of wealth, income for top 1 percent",
+  "statement": "\u003cp\u003eAmericans \u0026quot;are working longer hours for low wages . . . and yet almost all new income and wealth is going to the top 1 percent.\u0026quot;\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "half-true",
+   "ruling": "Half-True",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-halftrue.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2016-02-04 22:27:33",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Economy",
+    "subject_slug": "economy"
+   },
+   {
+    "subject": "Income",
+    "subject_slug": "income"
+   },
+   {
+    "subject": "Workers",
+    "subject_slug": "workers"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2016/feb/03/bernie-s/mixed-bag-bernie-sanders-claim-about-wages-hours-i/",
+  "target": [],
+  "statement_date": "2016-02-01",
+  "statement_context": "a political ad",
+  "speaker": {
+   "party": {
+    "party": "Independent",
+    "party_slug": "independent"
+   },
+   "first_name": "Bernie",
+   "last_name": "Sanders",
+   "name_slug": "bernie-s",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FBernie_Sanders.jpg"
+  },
+  "ruling_headline": "Mixed bag for Bernie Sanders' claim about wages, hours, income growth",
+  "statement": "\u003cp\u003e\u0026quot;While our people work longer hours for lower wages, almost all new income goes to the top 1 percent.\u0026quot;\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "half-true",
+   "ruling": "Half-True",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-halftrue.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2016-02-03 10:00:00",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Economy",
+    "subject_slug": "economy"
+   },
+   {
+    "subject": "Income",
+    "subject_slug": "income"
+   },
+   {
+    "subject": "Workers",
+    "subject_slug": "workers"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2016/jan/26/bernie-s/reparations-for-slavery-sanders-obama-clinton/",
+  "target": [],
+  "statement_date": "2016-01-24",
+  "statement_context": "comments on \"Meet the Press.\"",
+  "speaker": {
+   "party": {
+    "party": "Independent",
+    "party_slug": "independent"
+   },
+   "first_name": "Bernie",
+   "last_name": "Sanders",
+   "name_slug": "bernie-s",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FBernie_Sanders.jpg"
+  },
+  "ruling_headline": "What Bernie Sanders, Barack Obama and Hillary Clinton have said about reparations for slavery",
+  "statement": "\u003cp\u003eSays his views on reparations for slavery are the same as Barack Obama\u0026#39;s and Hillary Clinton\u0026#39;s.\u0026nbsp;\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "mostly-true",
+   "ruling": "Mostly True",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-mostlytrue.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2016-01-26 16:06:34",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Diversity",
+    "subject_slug": "diversity"
+   },
+   {
+    "subject": "Income",
+    "subject_slug": "income"
+   },
+   {
+    "subject": "Poverty",
+    "subject_slug": "poverty"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2016/jan/26/bernie-s/bernie-sanders-says-he-polls-better-against-gop-ca/",
+  "target": [],
+  "statement_date": "2016-01-19",
+  "statement_context": "a town hall meeting in Underwood, Iowa.",
+  "speaker": {
+   "party": {
+    "party": "Independent",
+    "party_slug": "independent"
+   },
+   "first_name": "Bernie",
+   "last_name": "Sanders",
+   "name_slug": "bernie-s",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FBernie_Sanders.jpg"
+  },
+  "ruling_headline": "Bernie Sanders says he polls better against GOP candidates than Hillary Clinton",
+  "statement": "\u003cp\u003e\u0026quot;Almost all of the polls that have come out suggest that I am a much stronger candidate against the Republicans than is Hillary Clinton.\u0026quot;\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "false",
+   "ruling": "False",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-false.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2016-01-26 11:03:48",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Polls and Public Opinion",
+    "subject_slug": "polls"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2016/jan/24/bernie-s/yes-donald-trump-really-did-tweet-climate-change-h/",
+  "target": [
+   {
+    "party": {
+     "party": "Republican",
+     "party_slug": "republican"
+    },
+    "first_name": "Donald",
+    "last_name": "Trump",
+    "name_slug": "donald-trump",
+    "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2Ftrump_1.jpg"
+   }
+  ],
+  "statement_date": "2016-01-24",
+  "statement_context": "an interview on NBC's \"Meet the Press\"",
+  "speaker": {
+   "party": {
+    "party": "Independent",
+    "party_slug": "independent"
+   },
+   "first_name": "Bernie",
+   "last_name": "Sanders",
+   "name_slug": "bernie-s",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FBernie_Sanders.jpg"
+  },
+  "ruling_headline": "What Donald Trump said about the Chinese inventing the 'hoax' of climate change",
+  "statement": "\u003cp\u003eSays Donald Trump \u0026quot;thinks that climate change is a hoax, invented by the Chinese.\u0026quot;\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "mostly-true",
+   "ruling": "Mostly True",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-mostlytrue.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2016-01-24 14:25:13",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Climate Change",
+    "subject_slug": "climate-change"
+   },
+   {
+    "subject": "Science",
+    "subject_slug": "science"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2016/jan/20/bernie-s/bernie-sanders-nra-report-card-d-minus-most-recent/",
+  "target": [],
+  "statement_date": "2016-01-19",
+  "statement_context": "a town hall in Underwood, Iowa",
+  "speaker": {
+   "party": {
+    "party": "Independent",
+    "party_slug": "independent"
+   },
+   "first_name": "Bernie",
+   "last_name": "Sanders",
+   "name_slug": "bernie-s",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FBernie_Sanders.jpg"
+  },
+  "ruling_headline": "Bernie Sanders’ NRA report card: D-minus is most recent grade",
+  "statement": "\u003cp\u003e\u0026quot;I have a D-minus voting record from the NRA.\u0026quot;\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "mostly-true",
+   "ruling": "Mostly True",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-mostlytrue.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2016-01-20 18:27:37",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Guns",
+    "subject_slug": "guns"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2016/jan/18/bernie-s/less-10-percent-defense-budget-fighting-terrorism-/",
+  "target": [],
+  "statement_date": "2016-01-17",
+  "statement_context": "comments during the South Carolina Democratic presidential debate",
+  "speaker": {
+   "party": {
+    "party": "Independent",
+    "party_slug": "independent"
+   },
+   "first_name": "Bernie",
+   "last_name": "Sanders",
+   "name_slug": "bernie-s",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FBernie_Sanders.jpg"
+  },
+  "ruling_headline": "Less than 10 percent of defense budget is for fighting terrorism, Sanders says",
+  "statement": "\u003cp\u003e\u0026quot;Very little of (the defense) budget \u0026mdash; less than 10 percent \u0026mdash; actually goes into fighting ISIS and international terrorism.\u0026quot;\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "barely-true",
+   "ruling": "Mostly False",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-mostlyfalse.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2016-01-18 16:17:28",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Federal Budget",
+    "subject_slug": "federal-budget"
+   },
+   {
+    "subject": "Military",
+    "subject_slug": "military"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2016/jan/18/bernie-s/fact-checking-bernie-sanders-claim-he-helped-write/",
+  "target": [],
+  "statement_date": "2016-01-17",
+  "statement_context": "comments during the South Carolina Democratic presidential debate",
+  "speaker": {
+   "party": {
+    "party": "Independent",
+    "party_slug": "independent"
+   },
+   "first_name": "Bernie",
+   "last_name": "Sanders",
+   "name_slug": "bernie-s",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FBernie_Sanders.jpg"
+  },
+  "ruling_headline": "Bernie Sanders exaggerates with claim that he helped write Obamacare",
+  "statement": "\u003cp\u003e\u0026quot;I helped write\u0026quot; the Affordable Care Act.\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "barely-true",
+   "ruling": "Mostly False",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-mostlyfalse.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2016-01-18 00:51:05",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Corrections and Updates",
+    "subject_slug": "corrections-and-updates"
+   },
+   {
+    "subject": "Health Care",
+    "subject_slug": "health-care"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2016/jan/17/hillary-clinton/fact-checking-gun-manufacturer-liability-bernie/",
+  "target": [
+   {
+    "party": {
+     "party": "Independent",
+     "party_slug": "independent"
+    },
+    "first_name": "Bernie",
+    "last_name": "Sanders",
+    "name_slug": "bernie-s",
+    "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FBernie_Sanders.jpg"
+   }
+  ],
+  "statement_date": "2016-01-17",
+  "statement_context": "comments during the South Carolina Democratic presidential debate",
+  "speaker": {
+   "party": {
+    "party": "Democrat",
+    "party_slug": "democrat"
+   },
+   "first_name": "Hillary",
+   "last_name": "Clinton",
+   "name_slug": "hillary-clinton",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2Fclinton_mug.jpg"
+  },
+  "ruling_headline": "Hillary Clinton correct that Bernie Sanders flip-flopped on liability for gun makers, sellers",
+  "statement": "\u003cp\u003eSays\u0026nbsp;Bernie Sanders \u0026quot;has reversed his position on immunity\u0026quot; for gun manufacturers and sellers.\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "true",
+   "ruling": "True",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Frulings%2Frulings-tom-true.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2016-01-17 22:39:48",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Guns",
+    "subject_slug": "guns"
+   },
+   {
+    "subject": "Legal Issues",
+    "subject_slug": "legal-issues"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2016/jan/17/bernie-s/sanders-obama-was-right-clinton-was-wrong-iran/",
+  "target": [],
+  "statement_date": "2016-01-17",
+  "statement_context": "an interview on NBC's \"Meet the Press\"",
+  "speaker": {
+   "party": {
+    "party": "Independent",
+    "party_slug": "independent"
+   },
+   "first_name": "Bernie",
+   "last_name": "Sanders",
+   "name_slug": "bernie-s",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FBernie_Sanders.jpg"
+  },
+  "ruling_headline": "Sanders: Obama was right, Clinton was wrong on Iran",
+  "statement": "\u003cp\u003eSays Hillary Clinton called Barack Obama \u0026quot;naive\u0026quot; for saying he was would \u0026quot;sit down and talk to the Iranians\u0026quot; during the 2008 Democratic primary.\u003c/p\u003e\r\n\r\n\u003cdiv\u003e\u0026nbsp;\u003c/div\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "half-true",
+   "ruling": "Half-True",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-halftrue.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2016-01-17 17:23:18",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Foreign Policy",
+    "subject_slug": "foreign-policy"
+   },
+   {
+    "subject": "Nuclear",
+    "subject_slug": "nuclear"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2015/dec/22/bernie-s/Sanders-take-Clinton-voter-data/",
+  "target": [],
+  "statement_date": "2015-12-20",
+  "statement_context": "an interview on NBC's \"Meet the Press\".",
+  "speaker": {
+   "party": {
+    "party": "Independent",
+    "party_slug": "independent"
+   },
+   "first_name": "Bernie",
+   "last_name": "Sanders",
+   "name_slug": "bernie-s",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FBernie_Sanders.jpg"
+  },
+  "ruling_headline": "Sanders spins the facts when he says campaign did not 'go out and take' Clinton data",
+  "statement": "\u003cp\u003e\u0026quot;We didn\u0026#39;t go out and take\u0026quot; information from the Hillary Clinton campaign.\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "barely-true",
+   "ruling": "Mostly False",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-mostlyfalse.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2015-12-22 15:19:29",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Elections",
+    "subject_slug": "elections"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2015/dec/20/bernie-s/fact-checking-bernie-sanders-claim-us-spends-three/",
+  "target": [],
+  "statement_date": "2015-12-19",
+  "statement_context": "the Dec. 19 Democratic presidential debate",
+  "speaker": {
+   "party": {
+    "party": "Independent",
+    "party_slug": "independent"
+   },
+   "first_name": "Bernie",
+   "last_name": "Sanders",
+   "name_slug": "bernie-s",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FBernie_Sanders.jpg"
+  },
+  "ruling_headline": "Fact-checking Sanders' claim that U.S. spends 3 times per capita what the U.K. spends on health care",
+  "statement": "\u003cp\u003eThe United States spends \u0026quot;almost three times per capita what they spend in the U.K.\u0026quot; on health care and \u0026quot;50 percent more than they pay in France.\u0026quot;\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "true",
+   "ruling": "True",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Frulings%2Frulings-tom-true.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2015-12-20 00:09:35",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Health Care",
+    "subject_slug": "health-care"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2015/nov/24/bernie-s/bernie-sanders-right-saudi-arabia-more-focused-con/",
+  "target": [],
+  "statement_date": "2015-11-19",
+  "statement_context": "a speech at Georgetown University",
+  "speaker": {
+   "party": {
+    "party": "Independent",
+    "party_slug": "independent"
+   },
+   "first_name": "Bernie",
+   "last_name": "Sanders",
+   "name_slug": "bernie-s",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FBernie_Sanders.jpg"
+  },
+  "ruling_headline": "Bernie Sanders is right: Saudi Arabia is more focused on the conflict in Yemen than fighting ISIS",
+  "statement": "\u003cp\u003e\u0026quot;Instead of fighting ISIS, (the Saudis) have focused more on a campaign to oust Iran-backed Houthi rebels in Yemen.\u0026quot;\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "true",
+   "ruling": "True",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Frulings%2Frulings-tom-true.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2015-11-24 17:51:18",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Foreign Policy",
+    "subject_slug": "foreign-policy"
+   },
+   {
+    "subject": "Terrorism",
+    "subject_slug": "terrorism"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2015/nov/16/bernie-s/fact-checking-bernie-sanders-comments-climate-chan/",
+  "target": [],
+  "statement_date": "2015-11-14",
+  "statement_context": "a Democratic presidential debate in Des Moines, Iowa.",
+  "speaker": {
+   "party": {
+    "party": "Independent",
+    "party_slug": "independent"
+   },
+   "first_name": "Bernie",
+   "last_name": "Sanders",
+   "name_slug": "bernie-s",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FBernie_Sanders.jpg"
+  },
+  "ruling_headline": "Fact-checking Bernie Sanders' comments on climate change and terrorism",
+  "statement": "\u003cp\u003eClimate change is \u0026quot;directly related\u0026quot; to the growth of terrorism.\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "barely-true",
+   "ruling": "Mostly False",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-mostlyfalse.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2015-11-16 16:38:41",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Climate Change",
+    "subject_slug": "climate-change"
+   },
+   {
+    "subject": "Terrorism",
+    "subject_slug": "terrorism"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2015/nov/15/bernie-s/sanders-significantly-less-10-defense-dollars-go-f/",
+  "target": [],
+  "statement_date": "2015-11-14",
+  "statement_context": "the Democratic debate in Iowa",
+  "speaker": {
+   "party": {
+    "party": "Independent",
+    "party_slug": "independent"
+   },
+   "first_name": "Bernie",
+   "last_name": "Sanders",
+   "name_slug": "bernie-s",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FBernie_Sanders.jpg"
+  },
+  "ruling_headline": "Sanders: 'Significantly less than 10%' of defense dollars go to fight terrorism",
+  "statement": "\u003cp\u003eOut\u003cstrong\u003e \u003c/strong\u003eof the total U.S. military budget, \u0026quot;significantly less than 10 percent of that money is used to fight international terrorism.\u0026quot;\u003c/p\u003e\r\n\r\n\u003cdiv\u003e\u0026nbsp;\u003c/div\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "barely-true",
+   "ruling": "Mostly False",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-mostlyfalse.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2015-11-15 01:14:20",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Military",
+    "subject_slug": "military"
+   },
+   {
+    "subject": "Terrorism",
+    "subject_slug": "terrorism"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2015/nov/15/bernie-s/bernie-sanders-says-us-only-major-country-doesnt-g/",
+  "target": [],
+  "statement_date": "2015-11-14",
+  "statement_context": "a Democratic presidential debate in Des Moines, Iowa",
+  "speaker": {
+   "party": {
+    "party": "Independent",
+    "party_slug": "independent"
+   },
+   "first_name": "Bernie",
+   "last_name": "Sanders",
+   "name_slug": "bernie-s",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FBernie_Sanders.jpg"
+  },
+  "ruling_headline": "Bernie Sanders says U.S. is only major country that doesn't guarantee health care as a right",
+  "statement": "\u003cp\u003eThe United States is \u0026quot;the only major country on earth that doesn\u0026#39;t guarantee health care to all people as a right, not a privilege.\u0026quot;\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "half-true",
+   "ruling": "Half-True",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-halftrue.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2015-11-15 00:47:02",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Health Care",
+    "subject_slug": "health-care"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2015/nov/15/bernie-s/income-tax-rates-were-90-percent-under-eisenhower-/",
+  "target": [],
+  "statement_date": "2015-11-14",
+  "statement_context": "a Democratic presidential debate in Des Moines, Iowa",
+  "speaker": {
+   "party": {
+    "party": "Independent",
+    "party_slug": "independent"
+   },
+   "first_name": "Bernie",
+   "last_name": "Sanders",
+   "name_slug": "bernie-s",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FBernie_Sanders.jpg"
+  },
+  "ruling_headline": "Income tax rates were 90 percent under Eisenhower, Sanders says",
+  "statement": "\u003cp\u003eSays income tax rates under Eisenhower were as high as 90 percent.\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "true",
+   "ruling": "True",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Frulings%2Frulings-tom-true.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2015-11-15 00:28:42",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Taxes",
+    "subject_slug": "taxes"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2015/nov/12/bernie-s/bernie-sanders-says-over-half-black-workers-earn-l/",
+  "target": [],
+  "statement_date": "2015-11-06",
+  "statement_context": "a Democratic presidential candidates' forum in Rock Hill, S.C.",
+  "speaker": {
+   "party": {
+    "party": "Independent",
+    "party_slug": "independent"
+   },
+   "first_name": "Bernie",
+   "last_name": "Sanders",
+   "name_slug": "bernie-s",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FBernie_Sanders.jpg"
+  },
+  "ruling_headline": "Bernie Sanders says over half of black workers earn less than $15 an hour",
+  "statement": "\u003cp\u003e\u0026quot;Over half of the black workers in this country earn less\u0026quot; than $15 an hour.\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "mostly-true",
+   "ruling": "Mostly True",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-mostlytrue.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2015-11-12 10:58:28",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Diversity",
+    "subject_slug": "diversity"
+   },
+   {
+    "subject": "Economy",
+    "subject_slug": "economy"
+   },
+   {
+    "subject": "Jobs",
+    "subject_slug": "jobs"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2015/nov/10/martin-omalley/fact-checking-martin-omalleys-claim-bernie-sanders/",
+  "target": [
+   {
+    "party": {
+     "party": "Independent",
+     "party_slug": "independent"
+    },
+    "first_name": "Bernie",
+    "last_name": "Sanders",
+    "name_slug": "bernie-s",
+    "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FBernie_Sanders.jpg"
+   }
+  ],
+  "statement_date": "2015-11-06",
+  "statement_context": "the First in the South Democratic Presidential forum.",
+  "speaker": {
+   "party": {
+    "party": "Democrat",
+    "party_slug": "democrat"
+   },
+   "first_name": "Martin",
+   "last_name": "O'Malley",
+   "name_slug": "martin-omalley",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FMartin_OMalley.jpg"
+  },
+  "ruling_headline": "Fact-checking Martin O'Malley's claim that Bernie Sanders sought primary challenger to Obama",
+  "statement": "\u003cp\u003e\u0026quot;When President Obama was running for re-election \u0026hellip; Senator Sanders was trying to find someone to primary him.\u0026quot;\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "half-true",
+   "ruling": "Half-True",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-halftrue.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2015-11-10 16:06:58",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Candidate Biography",
+    "subject_slug": "candidates-biography"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2015/oct/28/chris-christie/chris-christie-says-bernie-sanderss-plan-raise-you/",
+  "target": [
+   {
+    "party": {
+     "party": "Independent",
+     "party_slug": "independent"
+    },
+    "first_name": "Bernie",
+    "last_name": "Sanders",
+    "name_slug": "bernie-s",
+    "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FBernie_Sanders.jpg"
+   }
+  ],
+  "statement_date": "2015-10-28",
+  "statement_context": "a Republican presidential debate in Boulder, Colo.",
+  "speaker": {
+   "party": {
+    "party": "Republican",
+    "party_slug": "republican"
+   },
+   "first_name": "Chris",
+   "last_name": "Christie",
+   "name_slug": "chris-christie",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2Fchristie.jpg"
+  },
+  "ruling_headline": "Chris Christie says Bernie Sanders’s plan is 'to raise your taxes to 90 percent'",
+  "statement": "\u003cp\u003eBernie Sanders\u0026rsquo;s plan is \u0026quot;to raise your taxes to 90 percent.\u0026quot;\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "pants-fire",
+   "ruling": "Pants on Fire!",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-pantsonfire.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2015-10-28 21:28:36",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Taxes",
+    "subject_slug": "taxes"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2015/oct/16/viral-image/internet-graphic-says-bernie-sanders-slammed-antid/",
+  "target": [
+   {
+    "party": {
+     "party": "Independent",
+     "party_slug": "independent"
+    },
+    "first_name": "Bernie",
+    "last_name": "Sanders",
+    "name_slug": "bernie-s",
+    "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FBernie_Sanders.jpg"
+   }
+  ],
+  "statement_date": "2015-10-15",
+  "statement_context": "a graphic circulating on the Internet",
+  "speaker": {
+   "party": {
+    "party": "None",
+    "party_slug": "none"
+   },
+   "first_name": "",
+   "last_name": "Viral image",
+   "name_slug": "viral-image",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FSuccess-Kid.jpg"
+  },
+  "ruling_headline": "Internet graphic says Bernie Sanders slammed antidepressants, but quote is actually the Unabomber's",
+  "statement": "\u003cp\u003eSays Bernie Sanders once said, \u0026quot;Instead of removing the conditions that make people depressed, modern society gives them antidepressant drugs.\u0026quot;\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "pants-fire",
+   "ruling": "Pants on Fire!",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-pantsonfire.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2015-10-16 14:17:29",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Health Care",
+    "subject_slug": "health-care"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2015/oct/14/bernie-s/bernie-sanders-says-people-are-getting-prison-sent/",
+  "target": [],
+  "statement_date": "2015-10-13",
+  "statement_context": "a Democratic presidential debate in Las Vegas",
+  "speaker": {
+   "party": {
+    "party": "Independent",
+    "party_slug": "independent"
+   },
+   "first_name": "Bernie",
+   "last_name": "Sanders",
+   "name_slug": "bernie-s",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FBernie_Sanders.jpg"
+  },
+  "ruling_headline": "Bernie Sanders says people are getting prison sentences for smoking marijuana",
+  "statement": "\u003cp\u003e\u0026quot;We are imprisoning or giving jail sentences to young people who are smoking marijuana.\u0026quot;\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "barely-true",
+   "ruling": "Mostly False",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-mostlyfalse.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2015-10-14 16:06:21",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Criminal Justice",
+    "subject_slug": "criminal-justice"
+   },
+   {
+    "subject": "Drugs",
+    "subject_slug": "drugs"
+   },
+   {
+    "subject": "Legal Issues",
+    "subject_slug": "legal-issues"
+   },
+   {
+    "subject": "Marijuana",
+    "subject_slug": "marijuana"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2015/oct/14/bernie-s/bernie-sanders-says-every-other-major-country-has-/",
+  "target": [],
+  "statement_date": "2015-10-14",
+  "statement_context": "the CNN Democratic presidential debate in Las Vegas",
+  "speaker": {
+   "party": {
+    "party": "Independent",
+    "party_slug": "independent"
+   },
+   "first_name": "Bernie",
+   "last_name": "Sanders",
+   "name_slug": "bernie-s",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FBernie_Sanders.jpg"
+  },
+  "ruling_headline": "Bernie Sanders says 'every other major country' has family paid leave except United States",
+  "statement": "\u003cp\u003e\u0026quot;Every other major country\u0026quot; has family paid leave.\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "mostly-true",
+   "ruling": "Mostly True",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-mostlytrue.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2015-10-14 14:21:36",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Families",
+    "subject_slug": "families"
+   },
+   {
+    "subject": "Women",
+    "subject_slug": "women"
+   },
+   {
+    "subject": "Workers",
+    "subject_slug": "workers"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2015/oct/13/bernie-s/bernie-sanders-united-states-has-more-people-jail-/",
+  "target": [],
+  "statement_date": "2015-10-13",
+  "statement_context": "the first Democratic debate",
+  "speaker": {
+   "party": {
+    "party": "Independent",
+    "party_slug": "independent"
+   },
+   "first_name": "Bernie",
+   "last_name": "Sanders",
+   "name_slug": "bernie-s",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FBernie_Sanders.jpg"
+  },
+  "ruling_headline": "Bernie Sanders: The United States has 'more people in jail than any other country on Earth'",
+  "statement": "\u003cp\u003e\u0026quot;Today in America, we have more people in jail than any other country on Earth.\u0026quot;\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "mostly-true",
+   "ruling": "Mostly True",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-mostlytrue.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2015-10-13 23:49:30",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Criminal Justice",
+    "subject_slug": "criminal-justice"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2015/oct/13/bernie-s/debate-bernie-sanders-says-african-american-youth-/",
+  "target": [],
+  "statement_date": "2015-10-13",
+  "statement_context": "a Democratic presidential debate in Las Vegas",
+  "speaker": {
+   "party": {
+    "party": "Independent",
+    "party_slug": "independent"
+   },
+   "first_name": "Bernie",
+   "last_name": "Sanders",
+   "name_slug": "bernie-s",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FBernie_Sanders.jpg"
+  },
+  "ruling_headline": "In debate, Bernie Sanders says African-American youth unemployment is 51%, and 36% for Hispanics",
+  "statement": "\u003cp\u003e\u0026quot;African-American youth unemployment is 51 percent. Hispanic youth unemployment is 36 percent.\u0026quot;\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "half-true",
+   "ruling": "Half-True",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-halftrue.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2015-10-13 22:23:47",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Diversity",
+    "subject_slug": "diversity"
+   },
+   {
+    "subject": "Economy",
+    "subject_slug": "economy"
+   },
+   {
+    "subject": "Jobs",
+    "subject_slug": "jobs"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2015/sep/30/bernie-s/bernie-sanders-only-presidential-candidates-withou/",
+  "target": [],
+  "statement_date": "2015-09-28",
+  "statement_context": "comments on Twitter.",
+  "speaker": {
+   "party": {
+    "party": "Independent",
+    "party_slug": "independent"
+   },
+   "first_name": "Bernie",
+   "last_name": "Sanders",
+   "name_slug": "bernie-s",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FBernie_Sanders.jpg"
+  },
+  "ruling_headline": "Is Bernie Sanders the only presidential candidate without a super PAC?",
+  "statement": "\u003cp\u003e\u0026quot;Unlike virtually every other campaign, we don\u0026#39;t have a super PAC.\u0026quot;\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "mostly-true",
+   "ruling": "Mostly True",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-mostlytrue.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2015-09-30 16:35:34",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Campaign Finance",
+    "subject_slug": "campaign-finance"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2015/sep/29/bernie-s/bernie-sanders-says-federal-government-not-mcdonal/",
+  "target": [],
+  "statement_date": "2015-09-22",
+  "statement_context": "a tweet",
+  "speaker": {
+   "party": {
+    "party": "Independent",
+    "party_slug": "independent"
+   },
+   "first_name": "Bernie",
+   "last_name": "Sanders",
+   "name_slug": "bernie-s",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FBernie_Sanders.jpg"
+  },
+  "ruling_headline": "Bernie Sanders says federal government, not McDonald's or Walmart, is biggest low-wage employer",
+  "statement": "\u003cp\u003eThe largest low-wage employer \u0026quot;is not McDonalds or Walmart but the U.S. government.\u0026quot;\u003c/p\u003e\r\n\r\n\u003cdiv\u003e\u0026nbsp;\u003c/div\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "barely-true",
+   "ruling": "Mostly False",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-mostlyfalse.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2015-09-29 13:39:45",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Corporations",
+    "subject_slug": "corporations"
+   },
+   {
+    "subject": "Federal Budget",
+    "subject_slug": "federal-budget"
+   },
+   {
+    "subject": "Jobs",
+    "subject_slug": "jobs"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2015/sep/21/viral-image/web-graphic-says-bernie-sanders-doesnt-support-com/",
+  "target": [
+   {
+    "party": {
+     "party": "Independent",
+     "party_slug": "independent"
+    },
+    "first_name": "Bernie",
+    "last_name": "Sanders",
+    "name_slug": "bernie-s",
+    "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FBernie_Sanders.jpg"
+   }
+  ],
+  "statement_date": "2015-09-08",
+  "statement_context": "a shareable graphic on the Web",
+  "speaker": {
+   "party": {
+    "party": "None",
+    "party_slug": "none"
+   },
+   "first_name": "",
+   "last_name": "Viral image",
+   "name_slug": "viral-image",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FSuccess-Kid.jpg"
+  },
+  "ruling_headline": "Web graphic says Bernie Sanders doesn't support compulsory K-12 education",
+  "statement": "\u003cp\u003eSays Bernie Sanders opposes \u0026quot;requiring all children to have a K-12 education.\u0026quot;\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "false",
+   "ruling": "False",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-false.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2015-09-21 18:00:00",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Education",
+    "subject_slug": "education"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2015/aug/30/bernie-s/bernie-sanders-saudi-arabia-has-third-largest-mili/",
+  "target": [],
+  "statement_date": "2015-08-30",
+  "statement_context": "comments on ABC's \"This Week\"",
+  "speaker": {
+   "party": {
+    "party": "Independent",
+    "party_slug": "independent"
+   },
+   "first_name": "Bernie",
+   "last_name": "Sanders",
+   "name_slug": "bernie-s",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FBernie_Sanders.jpg"
+  },
+  "ruling_headline": "Bernie Sanders: 'Saudi Arabia has the third-largest military budget in the entire world'",
+  "statement": "\u003cp\u003e\u0026quot;Saudi Arabia has the third-largest military budget in the entire world.\u0026quot;\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "true",
+   "ruling": "True",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Frulings%2Frulings-tom-true.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2015-08-30 15:04:17",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Military",
+    "subject_slug": "military"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2015/aug/16/bernie-s/bernie-sanders-repeats-flawed-claim-about-us-healt/",
+  "target": [],
+  "statement_date": "2015-08-16",
+  "statement_context": "an interview on \"Meet the Press\"",
+  "speaker": {
+   "party": {
+    "party": "Independent",
+    "party_slug": "independent"
+   },
+   "first_name": "Bernie",
+   "last_name": "Sanders",
+   "name_slug": "bernie-s",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FBernie_Sanders.jpg"
+  },
+  "ruling_headline": "Bernie Sanders repeats flawed claim about U.S. health care spending compared to other countries",
+  "statement": "\u003cp\u003e\u0026quot;We spend almost twice as much per capita on health care as do the people of any other country.\u0026quot;\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "false",
+   "ruling": "False",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-false.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2015-08-16 18:22:23",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Health Care",
+    "subject_slug": "health-care"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2015/jul/13/bernie-s/bernie-sanders-says-real-unemployment-rate-african/",
+  "target": [],
+  "statement_date": "2015-07-06",
+  "statement_context": "a rally in Portland, Maine",
+  "speaker": {
+   "party": {
+    "party": "Independent",
+    "party_slug": "independent"
+   },
+   "first_name": "Bernie",
+   "last_name": "Sanders",
+   "name_slug": "bernie-s",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FBernie_Sanders.jpg"
+  },
+  "ruling_headline": "Bernie Sanders says 'real unemployment' rate for African American youth is 51 percent",
+  "statement": "\u003cp\u003eFor African-Americans between the ages of 17 and 20, \u0026quot;the real unemployment rate \u0026hellip; is 51 percent.\u0026quot;\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "mostly-true",
+   "ruling": "Mostly True",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-mostlytrue.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2015-07-13 15:39:42",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Diversity",
+    "subject_slug": "diversity"
+   },
+   {
+    "subject": "Economy",
+    "subject_slug": "economy"
+   },
+   {
+    "subject": "Jobs",
+    "subject_slug": "jobs"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2015/jul/10/generation-forward-pac/did-bernie-sanders-vote-against-background-checks-/",
+  "target": [
+   {
+    "party": {
+     "party": "Independent",
+     "party_slug": "independent"
+    },
+    "first_name": "Bernie",
+    "last_name": "Sanders",
+    "name_slug": "bernie-s",
+    "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FBernie_Sanders.jpg"
+   }
+  ],
+  "statement_date": "2015-06-25",
+  "statement_context": "an attack ad.",
+  "speaker": {
+   "party": {
+    "party": "Democrat",
+    "party_slug": "democrat"
+   },
+   "first_name": "",
+   "last_name": "Generation Forward PAC",
+   "name_slug": "generation-forward-pac",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FLogo400.png"
+  },
+  "ruling_headline": "Did Bernie Sanders vote against background checks and waiting periods for gun purchases?",
+  "statement": "\u003cp\u003e\u0026quot;Bernie Sanders voted against the Brady Bill -- background checks and waiting periods.\u0026quot;\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "mostly-true",
+   "ruling": "Mostly True",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-mostlytrue.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2015-07-10 10:00:00",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Guns",
+    "subject_slug": "guns"
+   },
+   {
+    "subject": "Voting Record",
+    "subject_slug": "voting-record"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2015/jul/08/bernie-s/sanders-child-poverty-higher-america-any-other-maj/",
+  "target": [],
+  "statement_date": "2015-07-05",
+  "statement_context": "an interview on CNN",
+  "speaker": {
+   "party": {
+    "party": "Independent",
+    "party_slug": "independent"
+   },
+   "first_name": "Bernie",
+   "last_name": "Sanders",
+   "name_slug": "bernie-s",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FBernie_Sanders.jpg"
+  },
+  "ruling_headline": "Sanders: Child poverty is higher in America than any other major country",
+  "statement": "\u003cp\u003e\u0026quot;We have the highest rate of childhood poverty of any major country on Earth.\u0026quot;\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "barely-true",
+   "ruling": "Mostly False",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-mostlyfalse.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2015-07-08 16:53:14",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Poverty",
+    "subject_slug": "poverty"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2015/jul/07/facebook-posts/meme-says-hillary-clintons-top-donors-are-banks-an/",
+  "target": [
+   {
+    "party": {
+     "party": "Democrat",
+     "party_slug": "democrat"
+    },
+    "first_name": "Hillary",
+    "last_name": "Clinton",
+    "name_slug": "hillary-clinton",
+    "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2Fclinton_mug.jpg"
+   },
+   {
+    "party": {
+     "party": "Independent",
+     "party_slug": "independent"
+    },
+    "first_name": "Bernie",
+    "last_name": "Sanders",
+    "name_slug": "bernie-s",
+    "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FBernie_Sanders.jpg"
+   }
+  ],
+  "statement_date": "2015-07-06",
+  "statement_context": "a meme on social media",
+  "speaker": {
+   "party": {
+    "party": "None",
+    "party_slug": "none"
+   },
+   "first_name": "",
+   "last_name": "Facebook posts",
+   "name_slug": "facebook-posts",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FFacebook_icon_1.jpg"
+  },
+  "ruling_headline": "Meme says Hillary Clinton's top donors are banks and corporations, Bernie Sanders' are labor unions",
+  "statement": "\u003cp\u003eSays Hillary Clinton\u0026rsquo;s top 10 donors are mainly \u0026quot;banks, corporations and media,\u0026quot; while Bernie Sanders\u0026rsquo; top 10 donors are labor unions.\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "mostly-true",
+   "ruling": "Mostly True",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-mostlytrue.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2015-07-07 10:51:33",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Campaign Finance",
+    "subject_slug": "campaign-finance"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2015/jun/29/bernie-s/bernie-sanders-us-only-major-country-doesnt-guaran/",
+  "target": [],
+  "statement_date": "2015-06-28",
+  "statement_context": "comments on ABC's \"This Week\"",
+  "speaker": {
+   "party": {
+    "party": "Independent",
+    "party_slug": "independent"
+   },
+   "first_name": "Bernie",
+   "last_name": "Sanders",
+   "name_slug": "bernie-s",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FBernie_Sanders.jpg"
+  },
+  "ruling_headline": "Bernie Sanders: U.S. 'only major country' that doesn't guarantee right to health care",
+  "statement": "\u003cp\u003e\u0026quot;We are the only major country on Earth that doesn\u0026#39;t guarantee health care to all people as a right.\u0026quot;\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "half-true",
+   "ruling": "Half-True",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-halftrue.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2015-06-29 17:49:44",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Health Care",
+    "subject_slug": "health-care"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2015/jun/18/bernie-s/bernie-sanders-says-income-inequality-widest-1920s/",
+  "target": [],
+  "statement_date": "2015-06-04",
+  "statement_context": "a post on Twitter",
+  "speaker": {
+   "party": {
+    "party": "Independent",
+    "party_slug": "independent"
+   },
+   "first_name": "Bernie",
+   "last_name": "Sanders",
+   "name_slug": "bernie-s",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FBernie_Sanders.jpg"
+  },
+  "ruling_headline": "Bernie Sanders says income inequality is widest since the 1920s",
+  "statement": "\u003cp\u003e\u0026quot;The gap between the very rich and everyone else in America is wider today than at any time since the 1920s.\u0026quot;\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "mostly-true",
+   "ruling": "Mostly True",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-mostlytrue.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2015-06-18 10:28:26",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Economy",
+    "subject_slug": "economy"
+   },
+   {
+    "subject": "Income",
+    "subject_slug": "income"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2015/jun/15/bernie-s/bernie-sanders-says-black-male-baby-born-today-has/",
+  "target": [],
+  "statement_date": "2015-06-11",
+  "statement_context": "an interview on PBS",
+  "speaker": {
+   "party": {
+    "party": "Independent",
+    "party_slug": "independent"
+   },
+   "first_name": "Bernie",
+   "last_name": "Sanders",
+   "name_slug": "bernie-s",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FBernie_Sanders.jpg"
+  },
+  "ruling_headline": "Bernie Sanders says a black male baby born today has 1-in-3 chance of prison",
+  "statement": "\u003cp\u003e\u0026quot;A black male baby born today, if we do not change the system, stands a one-in-three chance (of) ending up in jail.\u0026quot;\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "mostly-true",
+   "ruling": "Mostly True",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-mostlytrue.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2015-06-15 17:13:57",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Crime",
+    "subject_slug": "crime"
+   },
+   {
+    "subject": "Criminal Justice",
+    "subject_slug": "criminal-justice"
+   },
+   {
+    "subject": "Diversity",
+    "subject_slug": "diversity"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2015/apr/19/bernie-s/bernie-sanders-says-99-percent-new-income-going-to/",
+  "target": [],
+  "statement_date": "2015-04-19",
+  "statement_context": "comments on \"Fox News Sunday\"",
+  "speaker": {
+   "party": {
+    "party": "Independent",
+    "party_slug": "independent"
+   },
+   "first_name": "Bernie",
+   "last_name": "Sanders",
+   "name_slug": "bernie-s",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FBernie_Sanders.jpg"
+  },
+  "ruling_headline": "Bernie Sanders says 99 percent of 'new' income is going to top 1 percent",
+  "statement": "\u003cp\u003e\u0026nbsp;\u0026quot;99 percent of all new income today (is) going to the top 1 percent.\u0026quot;\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "mostly-true",
+   "ruling": "Mostly True",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-mostlytrue.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2015-04-19 18:55:37",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Income",
+    "subject_slug": "income"
+   },
+   {
+    "subject": "Wealth",
+    "subject_slug": "wealth"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2015/apr/02/bernie-s/checking-bernie-sanders-americans-low-voter-turnou/",
+  "target": [],
+  "statement_date": "2015-03-31",
+  "statement_context": "a town hall in Austin, Texas",
+  "speaker": {
+   "party": {
+    "party": "Independent",
+    "party_slug": "independent"
+   },
+   "first_name": "Bernie",
+   "last_name": "Sanders",
+   "name_slug": "bernie-s",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FBernie_Sanders.jpg"
+  },
+  "ruling_headline": "Checking Bernie Sanders on Americans' low voter-turnout rates",
+  "statement": "\u003cp\u003e\u0026quot;In this last election in November, ... 63 percent of the American people chose not to vote, ... 80 percent of young people, (and) 75 percent of low-income workers chose not to vote.\u0026quot;\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "half-true",
+   "ruling": "Half-True",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-halftrue.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2015-04-02 16:30:48",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Elections",
+    "subject_slug": "elections"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2015/mar/27/bernie-s/bernie-sanders-gop-budget-does-not-ask-ultra-wealt/",
+  "target": [],
+  "statement_date": "2015-03-23",
+  "statement_context": "a Tweet",
+  "speaker": {
+   "party": {
+    "party": "Independent",
+    "party_slug": "independent"
+   },
+   "first_name": "Bernie",
+   "last_name": "Sanders",
+   "name_slug": "bernie-s",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FBernie_Sanders.jpg"
+  },
+  "ruling_headline": "Bernie Sanders: GOP budget does not ask ultra-wealthy to contribute 'one penny' to deficit reduction",
+  "statement": "\u003cp\u003e\u0026quot;From 2013-2015, the richest 14 Americans increased their net wealth by more than $157 billion, yet the Republican budget would not require these Americans to contribute one penny to deficit reduction.\u0026quot;\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "half-true",
+   "ruling": "Half-True",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-halftrue.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2015-03-27 11:08:27",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Federal Budget",
+    "subject_slug": "federal-budget"
+   },
+   {
+    "subject": "Taxes",
+    "subject_slug": "taxes"
+   },
+   {
+    "subject": "Wealth",
+    "subject_slug": "wealth"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2014/dec/05/bernie-s/bernie-sanders-says-us-was-1st-college-degrees-199/",
+  "target": [],
+  "statement_date": "2014-12-05",
+  "statement_context": "a meme on social media",
+  "speaker": {
+   "party": {
+    "party": "Independent",
+    "party_slug": "independent"
+   },
+   "first_name": "Bernie",
+   "last_name": "Sanders",
+   "name_slug": "bernie-s",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FBernie_Sanders.jpg"
+  },
+  "ruling_headline": "Bernie Sanders says U.S. was 1st in college degrees in 1990, but now ranks 12th in world",
+  "statement": "\u003cp\u003e\u0026quot;In 1990, the U.S. led the world in the percentage of 25-34 year olds with college degrees. Today we are in 12th place.\u0026quot;\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "mostly-true",
+   "ruling": "Mostly True",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-mostlytrue.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2014-12-05 17:07:48",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Education",
+    "subject_slug": "education"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2014/aug/28/bernie-s/bernie-sanders-says-tax-share-paid-corporations-ha/",
+  "target": [],
+  "statement_date": "2014-08-27",
+  "statement_context": "a meme on social media",
+  "speaker": {
+   "party": {
+    "party": "Independent",
+    "party_slug": "independent"
+   },
+   "first_name": "Bernie",
+   "last_name": "Sanders",
+   "name_slug": "bernie-s",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FBernie_Sanders.jpg"
+  },
+  "ruling_headline": "Bernie Sanders says tax share paid by corporations has fallen from 33% to 9% since 1952",
+  "statement": "\u003cp\u003e\u0026quot;In 1952, the corporate income tax accounted for 33 percent of all federal tax revenue. Today, despite record-breaking profits, corporate taxes bring in less than 9 percent.\u0026quot;\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "mostly-true",
+   "ruling": "Mostly True",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-mostlytrue.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2014-08-28 17:16:41",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Corporations",
+    "subject_slug": "corporations"
+   },
+   {
+    "subject": "Taxes",
+    "subject_slug": "taxes"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2013/oct/02/bernie-s/sen-bernie-sanders-says-texas-republicans-want-abo/",
+  "target": [],
+  "statement_date": "2013-09-25",
+  "statement_context": "an MSNBC interview",
+  "speaker": {
+   "party": {
+    "party": "Independent",
+    "party_slug": "independent"
+   },
+   "first_name": "Bernie",
+   "last_name": "Sanders",
+   "name_slug": "bernie-s",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FBernie_Sanders.jpg"
+  },
+  "ruling_headline": "Sen. Bernie Sanders says Texas Republicans want to abolish Social Security, V.A. health care ",
+  "statement": "\u003cp\u003e\u0026quot;(Texas Republicans) believe in abolishing Social Security, abolishing V.A. health care.\u0026quot;\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "false",
+   "ruling": "False",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-false.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2013-10-02 09:44:23",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Social Security",
+    "subject_slug": "social-security"
+   },
+   {
+    "subject": "Veterans",
+    "subject_slug": "veterans"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2013/sep/26/bernie-s/sanders-one-out-four-corporations-pay-no-taxes/",
+  "target": [],
+  "statement_date": "2013-09-24",
+  "statement_context": "a segment of CNN's \"Crossfire\"",
+  "speaker": {
+   "party": {
+    "party": "Independent",
+    "party_slug": "independent"
+   },
+   "first_name": "Bernie",
+   "last_name": "Sanders",
+   "name_slug": "bernie-s",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FBernie_Sanders.jpg"
+  },
+  "ruling_headline": "Sanders: One out of four corporations pay no taxes",
+  "statement": "\u003cp\u003e\u0026quot;One out of four corporations doesn\u0026#39;t pay a nickel in (federal income) taxes.\u0026quot;\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "half-true",
+   "ruling": "Half-True",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-halftrue.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2013-09-26 17:58:01",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Taxes",
+    "subject_slug": "taxes"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2013/jun/06/bernie-s/bernie-sanders-says-six-10-americans-say-wealth-sh/",
+  "target": [],
+  "statement_date": "2013-06-04",
+  "statement_context": "a tweet",
+  "speaker": {
+   "party": {
+    "party": "Independent",
+    "party_slug": "independent"
+   },
+   "first_name": "Bernie",
+   "last_name": "Sanders",
+   "name_slug": "bernie-s",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FBernie_Sanders.jpg"
+  },
+  "ruling_headline": "Bernie Sanders says six of 10 Americans say wealth should be distributed more equally",
+  "statement": "\u003cp\u003e\r\n\t\u0026quot;Nearly 6 out of 10 believe that money and wealth should be more evenly distributed among a larger percentage of the people in the U.S.\u0026quot;\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "true",
+   "ruling": "True",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Frulings%2Frulings-tom-true.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2013-06-06 14:19:58",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Economy",
+    "subject_slug": "economy"
+   },
+   {
+    "subject": "Income",
+    "subject_slug": "income"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2013/jan/23/bernie-s/bernie-sanders-says-poverty-us-all-time-high/",
+  "target": [],
+  "statement_date": "2013-01-07",
+  "statement_context": "an interview on MSNBC",
+  "speaker": {
+   "party": {
+    "party": "Independent",
+    "party_slug": "independent"
+   },
+   "first_name": "Bernie",
+   "last_name": "Sanders",
+   "name_slug": "bernie-s",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FBernie_Sanders.jpg"
+  },
+  "ruling_headline": "Bernie Sanders says poverty in U.S. is at an all-time high",
+  "statement": "\u003cp\u003e\r\n\t\u0026quot;Poverty levels (are) at an all-time high.\u0026quot;\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "barely-true",
+   "ruling": "Mostly False",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-mostlyfalse.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2013-01-23 10:31:36",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Poverty",
+    "subject_slug": "poverty"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2012/jul/31/bernie-s/sanders-says-walmart-heirs-own-more-wealth-bottom-/",
+  "target": [],
+  "statement_date": "2012-07-22",
+  "statement_context": "a message on Twitter",
+  "speaker": {
+   "party": {
+    "party": "Independent",
+    "party_slug": "independent"
+   },
+   "first_name": "Bernie",
+   "last_name": "Sanders",
+   "name_slug": "bernie-s",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FBernie_Sanders.jpg"
+  },
+  "ruling_headline": "Bernie Sanders says Walmart heirs own more wealth than bottom 40 percent of Americans",
+  "statement": "\u003cp\u003e\u0026quot;Today the Walton family of Walmart own more wealth than the bottom 40 percent of America.\u0026quot;\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "true",
+   "ruling": "True",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Frulings%2Frulings-tom-true.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2012-07-31 15:57:54",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Economy",
+    "subject_slug": "economy"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2011/oct/06/bernie-s/bernie-sanders-says-six-bank-companies-have-assets/",
+  "target": [],
+  "statement_date": "2011-10-04",
+  "statement_context": "an interview with MSNBC",
+  "speaker": {
+   "party": {
+    "party": "Independent",
+    "party_slug": "independent"
+   },
+   "first_name": "Bernie",
+   "last_name": "Sanders",
+   "name_slug": "bernie-s",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FBernie_Sanders.jpg"
+  },
+  "ruling_headline": "Bernie Sanders says six bank companies have assets equaling 60 percent of U.S. GDP",
+  "statement": "\u003cp\u003e\r\n\t\u0026quot;Today, you have six financial institutions, the largest six, that have assets that are the equivalent of 60 percent of the GDP of the United States of America.\u0026quot;\u003c/p\u003e",
+  "ruling": {
+   "ruling_slug": "true",
+   "ruling": "True",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Frulings%2Frulings-tom-true.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2011-10-06 14:44:22",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Financial Regulation",
+    "subject_slug": "financial-regulation"
+   },
+   {
+    "subject": "New Hampshire 2012",
+    "subject_slug": "new-hampshire-2012"
+   },
+   {
+    "subject": "Occupy Wall Street",
+    "subject_slug": "occupy-wall-street"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2011/jul/20/bernie-s/bernie-sanders-says-12-million-have-slipped-middle/",
+  "target": [],
+  "statement_date": "2011-07-18",
+  "statement_context": "a tweet",
+  "speaker": {
+   "party": {
+    "party": "Independent",
+    "party_slug": "independent"
+   },
+   "first_name": "Bernie",
+   "last_name": "Sanders",
+   "name_slug": "bernie-s",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FBernie_Sanders.jpg"
+  },
+  "ruling_headline": "Bernie Sanders says 12 million have slipped from middle class into poverty since 2000",
+  "statement": "\u003cp\u003e\r\n\t\u0026quot;Since 2000, nearly 12 million Americans have slipped out of the middle class and into poverty.\u0026quot;\u003c/p\u003e",
+  "ruling": {
+   "ruling_slug": "half-true",
+   "ruling": "Half-True",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-halftrue.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2011-07-20 15:01:47",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Economy",
+    "subject_slug": "economy"
+   },
+   {
+    "subject": "Jobs",
+    "subject_slug": "jobs"
+   },
+   {
+    "subject": "New Hampshire 2012",
+    "subject_slug": "new-hampshire-2012"
+   },
+   {
+    "subject": "Poverty",
+    "subject_slug": "poverty"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2011/mar/14/bernie-s/sen-bernie-sanders-says-americans-now-work-longest/",
+  "target": [],
+  "statement_date": "2011-03-08",
+  "statement_context": "a C-SPAN interview",
+  "speaker": {
+   "party": {
+    "party": "Independent",
+    "party_slug": "independent"
+   },
+   "first_name": "Bernie",
+   "last_name": "Sanders",
+   "name_slug": "bernie-s",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FBernie_Sanders.jpg"
+  },
+  "ruling_headline": "Sen. Bernie Sanders says Americans now work the longest hours of any people around the world",
+  "statement": "\u003cp\u003e\r\n\t\u0026quot;We now work the longest hours of any people around the world.\u0026quot;\u003c/p\u003e",
+  "ruling": {
+   "ruling_slug": "false",
+   "ruling": "False",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-false.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2011-03-14 11:27:44",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Labor",
+    "subject_slug": "labor"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2010/dec/14/bernie-s/sen-bernie-sanders-says-997-american-families-woul/",
+  "target": [],
+  "statement_date": "2010-12-13",
+  "statement_context": "a Twitter message",
+  "speaker": {
+   "party": {
+    "party": "Independent",
+    "party_slug": "independent"
+   },
+   "first_name": "Bernie",
+   "last_name": "Sanders",
+   "name_slug": "bernie-s",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FBernie_Sanders.jpg"
+  },
+  "ruling_headline": "Sen. Bernie Sanders says 99.7% of American families would be exempt from estate tax",
+  "statement": "\u003cp\u003e\r\n\tUnder the compromise tax agreement, \u0026quot;99.7% of American families will not pay 1 nickel in an estate tax.\u0026quot;\u003c/p\u003e",
+  "ruling": {
+   "ruling_slug": "true",
+   "ruling": "True",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Frulings%2Frulings-tom-true.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2010-12-14 13:49:04",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Taxes",
+    "subject_slug": "taxes"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2010/dec/10/bernie-s/bernie-sanders-filibuster-exxon-mobil/",
+  "target": [],
+  "statement_date": "2010-11-30",
+  "statement_context": "a Senate floor speech",
+  "speaker": {
+   "party": {
+    "party": "Independent",
+    "party_slug": "independent"
+   },
+   "first_name": "Bernie",
+   "last_name": "Sanders",
+   "name_slug": "bernie-s",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FBernie_Sanders.jpg"
+  },
+  "ruling_headline": "Bernie Sanders says ExxonMobil paid no taxes in 2009, but that's inaccurate",
+  "statement": "\u003cp\u003e\r\n\t\u0026quot;Last year, ExxonMobil made $19 billion in profit. Guess what. They paid zero in taxes. They got a $156 million refund from the IRS.\u0026quot;\u003c/p\u003e",
+  "ruling": {
+   "ruling_slug": "false",
+   "ruling": "False",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-false.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2010-12-10 18:04:38",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Corporations",
+    "subject_slug": "corporations"
+   },
+   {
+    "subject": "Taxes",
+    "subject_slug": "taxes"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2010/dec/10/bernie-s/bernie-sanders-viral-speech-says-top-1-percent-ear/",
+  "target": [],
+  "statement_date": "2010-11-30",
+  "statement_context": "a Senate floor speech",
+  "speaker": {
+   "party": {
+    "party": "Independent",
+    "party_slug": "independent"
+   },
+   "first_name": "Bernie",
+   "last_name": "Sanders",
+   "name_slug": "bernie-s",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FBernie_Sanders.jpg"
+  },
+  "ruling_headline": "Bernie Sanders, in viral speech, says top 1 percent earn more than 23 percent of U.S. income",
+  "statement": "\u003cp\u003e\r\n\tIn 2007, \u0026quot;the top 1 percent of all income earners in the United States made 23.5 percent of all income,\u0026quot; which is \u0026quot;more than the entire bottom 50 percent\u003cb goog_docs_charindex=\"174\"\u003e.\u0026quot;\u003c/b\u003e\u003c/p\u003e",
+  "ruling": {
+   "ruling_slug": "true",
+   "ruling": "True",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Frulings%2Frulings-tom-true.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2010-12-10 14:46:33",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Economy",
+    "subject_slug": "economy"
+   },
+   {
+    "subject": "Poverty",
+    "subject_slug": "poverty"
+   },
+   {
+    "subject": "Workers",
+    "subject_slug": "workers"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2009/aug/20/bernie-s/sanders-says-us-doubles-every-other-country-capita/",
+  "target": [],
+  "statement_date": "2009-08-19",
+  "statement_context": "an appearance on the Rachel Maddow Show",
+  "speaker": {
+   "party": {
+    "party": "Independent",
+    "party_slug": "independent"
+   },
+   "first_name": "Bernie",
+   "last_name": "Sanders",
+   "name_slug": "bernie-s",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FBernie_Sanders.jpg"
+  },
+  "ruling_headline": "Sanders says U.S. doubles every other country in per capita health spending",
+  "statement": "\u003cp\u003e\u0026quot;We spend twice as much per capita on health care as any other nation on Earth.\u0026quot;\u003c/p\u003e",
+  "ruling": {
+   "ruling_slug": "false",
+   "ruling": "False",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-false.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2009-08-20 16:58:12",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Health Care",
+    "subject_slug": "health-care"
+   }
+  ]
+ }
+]

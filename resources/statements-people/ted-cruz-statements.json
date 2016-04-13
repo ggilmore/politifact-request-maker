@@ -1,0 +1,2763 @@
+[
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2016/apr/11/ted-cruz/national-surveys-show-ted-cruz-isnt-beating-hillar/",
+  "target": [],
+  "statement_date": "2016-04-07",
+  "statement_context": "an interview on CNN",
+  "speaker": {
+   "party": {
+    "party": "Republican",
+    "party_slug": "republican"
+   },
+   "first_name": "Ted",
+   "last_name": "Cruz",
+   "name_slug": "ted-cruz",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FTed_Cruz_1.jpg"
+  },
+  "ruling_headline": "National surveys show Ted Cruz isn't beating Hillary Clinton in poll after poll after poll",
+  "statement": "\u003cp\u003e\u0026quot;Poll after poll after poll shows me beating Hillary.\u0026quot;\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "barely-true",
+   "ruling": "Mostly False",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-mostlyfalse.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2016-04-11 16:30:36",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Polls and Public Opinion",
+    "subject_slug": "polls"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2016/apr/06/new-day-america/john-kasichs-super-pac-slams-ted-cruz-tv-ad-cruzs-/",
+  "target": [
+   {
+    "party": {
+     "party": "Republican",
+     "party_slug": "republican"
+    },
+    "first_name": "Ted",
+    "last_name": "Cruz",
+    "name_slug": "ted-cruz",
+    "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FTed_Cruz_1.jpg"
+   }
+  ],
+  "statement_date": "2016-03-31",
+  "statement_context": "a television ad.",
+  "speaker": {
+   "party": {
+    "party": "Organization",
+    "party_slug": "organization"
+   },
+   "first_name": "",
+   "last_name": "New Day for America",
+   "name_slug": "new-day-america",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2Fpolitifact-mugs-mug-independentgroup__________________3_2.jpg"
+  },
+  "ruling_headline": "John Kasich's super PAC slams Ted Cruz for TV ad Cruz's campaign didn't make",
+  "statement": "\u003cp\u003e\u0026quot;Many just call him \u0026#39;Lyin\u0026#39; Ted.\u0026#39; ... His\u0026nbsp;TV ad about John Kasich? Lie! Stations had to pull it off the air.\u0026quot;\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "false",
+   "ruling": "False",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-false.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2016-04-06 15:54:03",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Campaign Finance",
+    "subject_slug": "campaign-finance"
+   },
+   {
+    "subject": "Candidate Biography",
+    "subject_slug": "candidates-biography"
+   },
+   {
+    "subject": "Elections",
+    "subject_slug": "elections"
+   },
+   {
+    "subject": "History",
+    "subject_slug": "history"
+   },
+   {
+    "subject": "Negative Campaigning",
+    "subject_slug": "campaign-advertising"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2016/mar/31/donald-trump/donald-trump-has-no-evidence-ted-cruz-was-responsi/",
+  "target": [
+   {
+    "party": {
+     "party": "Republican",
+     "party_slug": "republican"
+    },
+    "first_name": "Ted",
+    "last_name": "Cruz",
+    "name_slug": "ted-cruz",
+    "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FTed_Cruz_1.jpg"
+   }
+  ],
+  "statement_date": "2016-03-29",
+  "statement_context": "an interview on CNN",
+  "speaker": {
+   "party": {
+    "party": "Republican",
+    "party_slug": "republican"
+   },
+   "first_name": "Donald",
+   "last_name": "Trump",
+   "name_slug": "donald-trump",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2Ftrump_1.jpg"
+  },
+  "ruling_headline": "Donald Trump has no evidence that Ted Cruz was responsible for naked Melania ad",
+  "statement": "\u003cp\u003eSays\u0026nbsp;Ted Cruz distributed the ad showing a nude Melania Trump on a rug.\u003c/p\u003e\r\n\r\n\u003cdiv\u003e\u0026nbsp;\u003c/div\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "false",
+   "ruling": "False",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-false.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2016-03-31 17:29:23",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Campaign Finance",
+    "subject_slug": "campaign-finance"
+   },
+   {
+    "subject": "Candidate Biography",
+    "subject_slug": "candidates-biography"
+   },
+   {
+    "subject": "Elections",
+    "subject_slug": "elections"
+   },
+   {
+    "subject": "Legal Issues",
+    "subject_slug": "legal-issues"
+   },
+   {
+    "subject": "Negative Campaigning",
+    "subject_slug": "campaign-advertising"
+   },
+   {
+    "subject": "Pop Culture",
+    "subject_slug": "pop-culture"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2016/mar/23/ted-cruz/ted-cruz-wrongly-says-ukraine-gave-nukes-due-ameri/",
+  "target": [],
+  "statement_date": "2016-03-21",
+  "statement_context": "an interview on CNN",
+  "speaker": {
+   "party": {
+    "party": "Republican",
+    "party_slug": "republican"
+   },
+   "first_name": "Ted",
+   "last_name": "Cruz",
+   "name_slug": "ted-cruz",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FTed_Cruz_1.jpg"
+  },
+  "ruling_headline": "Ted Cruz wrongly says Ukraine gave up nukes due to American security guarantees",
+  "statement": "\u003cp\u003e\u0026quot;Ukraine voluntarily gave up its nuclear weapons because the United States of America\u0026quot; said it would \u0026quot;ensure (its) territorial integrity from Russia.\u0026quot;\u003c/p\u003e\r\n\r\n\u003cdiv\u003e\u0026nbsp;\u003c/div\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "false",
+   "ruling": "False",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-false.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2016-03-23 12:04:02",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Foreign Policy",
+    "subject_slug": "foreign-policy"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2016/mar/16/ted-cruz/ted-cruz-pins-too-much-blame-outflow-jobs-barack-o/",
+  "target": [],
+  "statement_date": "2016-03-13",
+  "statement_context": "an interview with NBC's \"Meet the Press\"",
+  "speaker": {
+   "party": {
+    "party": "Republican",
+    "party_slug": "republican"
+   },
+   "first_name": "Ted",
+   "last_name": "Cruz",
+   "name_slug": "ted-cruz",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FTed_Cruz_1.jpg"
+  },
+  "ruling_headline": "Ted Cruz pins too much blame for outflow of jobs on Barack Obama",
+  "statement": "\u003cp\u003eSays President Barack Obama has \u0026quot;been presiding over our jobs going overseas for seven years.\u0026quot;\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "barely-true",
+   "ruling": "Mostly False",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-mostlyfalse.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2016-03-16 17:00:48",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Economy",
+    "subject_slug": "economy"
+   },
+   {
+    "subject": "Foreign Policy",
+    "subject_slug": "foreign-policy"
+   },
+   {
+    "subject": "Jobs",
+    "subject_slug": "jobs"
+   },
+   {
+    "subject": "Trade",
+    "subject_slug": "trade"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2016/mar/13/ted-cruz/ted-cruz-says-hes-engaged-civilly-protesters-his-c/",
+  "target": [],
+  "statement_date": "2016-03-13",
+  "statement_context": "an interview on \"Meet the Press\"",
+  "speaker": {
+   "party": {
+    "party": "Republican",
+    "party_slug": "republican"
+   },
+   "first_name": "Ted",
+   "last_name": "Cruz",
+   "name_slug": "ted-cruz",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FTed_Cruz_1.jpg"
+  },
+  "ruling_headline": "Ted Cruz says he's engaged civilly with protesters at his campaign events",
+  "statement": "\u003cp\u003e\u0026quot;More than once, I\u0026#39;ve actually had a conversation with the protesters on substance.\u0026quot;\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "true",
+   "ruling": "True",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Frulings%2Frulings-tom-true.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2016-03-13 17:38:03",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Civil Rights",
+    "subject_slug": "civil-rights"
+   },
+   {
+    "subject": "Elections",
+    "subject_slug": "elections"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2016/mar/10/ted-cruz/ted-cruz-i-always-opposed-tpp-trans-pacific-partne/",
+  "target": [],
+  "statement_date": "2016-03-10",
+  "statement_context": "the Republican debate in Miami",
+  "speaker": {
+   "party": {
+    "party": "Republican",
+    "party_slug": "republican"
+   },
+   "first_name": "Ted",
+   "last_name": "Cruz",
+   "name_slug": "ted-cruz",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FTed_Cruz_1.jpg"
+  },
+  "ruling_headline": "Ted Cruz: 'I always opposed the TPP (Trans-Pacific Partnership)'",
+  "statement": "\u003cp\u003e\u0026quot;I opposed TPP (Trans-Pacific Partnership) and have always opposed TPP.\u0026quot;\u003c/p\u003e\r\n\r\n\u003cdiv\u003e\u0026nbsp;\u003c/div\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "mostly-true",
+   "ruling": "Mostly True",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-mostlytrue.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2016-03-10 22:50:50",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Trade",
+    "subject_slug": "trade"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2016/mar/04/ted-cruz/ted-cruz-says-donald-trump-wrote-10-checks-hillary/",
+  "target": [
+   {
+    "party": {
+     "party": "Democrat",
+     "party_slug": "democrat"
+    },
+    "first_name": "Hillary",
+    "last_name": "Clinton",
+    "name_slug": "hillary-clinton",
+    "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2Fclinton_mug.jpg"
+   },
+   {
+    "party": {
+     "party": "Republican",
+     "party_slug": "republican"
+    },
+    "first_name": "Donald",
+    "last_name": "Trump",
+    "name_slug": "donald-trump",
+    "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2Ftrump_1.jpg"
+   }
+  ],
+  "statement_date": "2016-03-03",
+  "statement_context": "a Republican presidential debate in Detroit",
+  "speaker": {
+   "party": {
+    "party": "Republican",
+    "party_slug": "republican"
+   },
+   "first_name": "Ted",
+   "last_name": "Cruz",
+   "name_slug": "ted-cruz",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FTed_Cruz_1.jpg"
+  },
+  "ruling_headline": "Ted Cruz says Donald Trump wrote 10 checks to Hillary Clinton campaigns",
+  "statement": "\u003cp\u003eSays Donald Trump has written 10 checks to Hillary Clinton \u0026quot;and four of those checks were not to her Senate campaign. \u0026hellip; It was to her presidential campaign.\u0026quot;\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "half-true",
+   "ruling": "Half-True",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-halftrue.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2016-03-04 00:29:31",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Campaign Finance",
+    "subject_slug": "campaign-finance"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2016/mar/04/ted-cruz/ted-cruz-says-donald-trump-wrote-10-checks-hillary/",
+  "target": [
+   {
+    "party": {
+     "party": "Democrat",
+     "party_slug": "democrat"
+    },
+    "first_name": "Hillary",
+    "last_name": "Clinton",
+    "name_slug": "hillary-clinton",
+    "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2Fclinton_mug.jpg"
+   },
+   {
+    "party": {
+     "party": "Republican",
+     "party_slug": "republican"
+    },
+    "first_name": "Donald",
+    "last_name": "Trump",
+    "name_slug": "donald-trump",
+    "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2Ftrump_1.jpg"
+   }
+  ],
+  "statement_date": "2016-03-03",
+  "statement_context": "a Republican presidential debate in Detroit",
+  "speaker": {
+   "party": {
+    "party": "Republican",
+    "party_slug": "republican"
+   },
+   "first_name": "Ted",
+   "last_name": "Cruz",
+   "name_slug": "ted-cruz",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FTed_Cruz_1.jpg"
+  },
+  "ruling_headline": "Ted Cruz says Donald Trump wrote 10 checks to Hillary Clinton campaigns",
+  "statement": "\u003cp\u003eSays Donald Trump has written 10 checks to Hillary Clinton \u0026quot;and four of those checks were not to her Senate campaign. \u0026hellip; It was to her presidential campaign.\u0026quot;\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "half-true",
+   "ruling": "Half-True",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-halftrue.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2016-03-04 00:29:31",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Campaign Finance",
+    "subject_slug": "campaign-finance"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2016/mar/02/ted-cruz/ted-cruz-wrongly-says-senate-democratic-leader-har/",
+  "target": [
+   {
+    "party": {
+     "party": "Democrat",
+     "party_slug": "democrat"
+    },
+    "first_name": "Harry",
+    "last_name": "Reid",
+    "name_slug": "harry-reid",
+    "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/mugs%2Fmug-harryreid.jpg"
+   },
+   {
+    "party": {
+     "party": "Republican",
+     "party_slug": "republican"
+    },
+    "first_name": "Donald",
+    "last_name": "Trump",
+    "name_slug": "donald-trump",
+    "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2Ftrump_1.jpg"
+   }
+  ],
+  "statement_date": "2016-02-28",
+  "statement_context": "an interview on ABC's \"This Week\"",
+  "speaker": {
+   "party": {
+    "party": "Republican",
+    "party_slug": "republican"
+   },
+   "first_name": "Ted",
+   "last_name": "Cruz",
+   "name_slug": "ted-cruz",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FTed_Cruz_1.jpg"
+  },
+  "ruling_headline": "Ted Cruz wrongly says Harry Reid likes Donald Trump best in GOP field",
+  "statement": "\u003cp\u003eSays \u0026quot;Harry Reid, when asked about the Republican field, said the Republican he likes the best is Donald Trump, and he said, because I can work with him. He\u0026#39;ll cut deals.\u0026quot;\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "false",
+   "ruling": "False",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-false.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2016-03-02 13:30:06",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Candidate Biography",
+    "subject_slug": "candidates-biography"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2016/mar/02/ted-cruz/ted-cruz-wrongly-says-senate-democratic-leader-har/",
+  "target": [
+   {
+    "party": {
+     "party": "Democrat",
+     "party_slug": "democrat"
+    },
+    "first_name": "Harry",
+    "last_name": "Reid",
+    "name_slug": "harry-reid",
+    "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/mugs%2Fmug-harryreid.jpg"
+   },
+   {
+    "party": {
+     "party": "Republican",
+     "party_slug": "republican"
+    },
+    "first_name": "Donald",
+    "last_name": "Trump",
+    "name_slug": "donald-trump",
+    "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2Ftrump_1.jpg"
+   }
+  ],
+  "statement_date": "2016-02-28",
+  "statement_context": "an interview on ABC's \"This Week\"",
+  "speaker": {
+   "party": {
+    "party": "Republican",
+    "party_slug": "republican"
+   },
+   "first_name": "Ted",
+   "last_name": "Cruz",
+   "name_slug": "ted-cruz",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FTed_Cruz_1.jpg"
+  },
+  "ruling_headline": "Ted Cruz wrongly says Harry Reid likes Donald Trump best in GOP field",
+  "statement": "\u003cp\u003eSays \u0026quot;Harry Reid, when asked about the Republican field, said the Republican he likes the best is Donald Trump, and he said, because I can work with him. He\u0026#39;ll cut deals.\u0026quot;\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "false",
+   "ruling": "False",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-false.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2016-03-02 13:30:06",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Candidate Biography",
+    "subject_slug": "candidates-biography"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2016/mar/02/ted-cruz/yes-donald-trump-has-been-linked-mob/",
+  "target": [
+   {
+    "party": {
+     "party": "Republican",
+     "party_slug": "republican"
+    },
+    "first_name": "Donald",
+    "last_name": "Trump",
+    "name_slug": "donald-trump",
+    "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2Ftrump_1.jpg"
+   }
+  ],
+  "statement_date": "2016-02-28",
+  "statement_context": "comments on Meet the Press",
+  "speaker": {
+   "party": {
+    "party": "Republican",
+    "party_slug": "republican"
+   },
+   "first_name": "Ted",
+   "last_name": "Cruz",
+   "name_slug": "ted-cruz",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FTed_Cruz_1.jpg"
+  },
+  "ruling_headline": "Yes, Donald Trump has been linked to the mob",
+  "statement": "\u003cp\u003e\u0026quot;There have been multiple media reports about (Donald Trump\u0026#39;s) business dealings with the mob, with the mafia.\u0026quot;\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "true",
+   "ruling": "True",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Frulings%2Frulings-tom-true.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2016-03-02 11:53:19",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Candidate Biography",
+    "subject_slug": "candidates-biography"
+   },
+   {
+    "subject": "Crime",
+    "subject_slug": "crime"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2016/feb/25/ted-cruz/cruz-invents-trump-statement-socialized-medicine/",
+  "target": [],
+  "statement_date": "2016-02-25",
+  "statement_context": "the Republican debate in Houston, Texas",
+  "speaker": {
+   "party": {
+    "party": "Republican",
+    "party_slug": "republican"
+   },
+   "first_name": "Ted",
+   "last_name": "Cruz",
+   "name_slug": "ted-cruz",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FTed_Cruz_1.jpg"
+  },
+  "ruling_headline": "Ted Cruz twists Donald Trump's talk about health care, 'socialized' medicine",
+  "statement": "\u003cp\u003e\u0026quot;A couple of debates ago, (Donald Trump) said if you don\u0026rsquo;t support socialized health care, you\u0026rsquo;re heartless.\u0026quot;\u003c/p\u003e\r\n\r\n\u003cdiv\u003e\u0026nbsp;\u003c/div\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "pants-fire",
+   "ruling": "Pants on Fire!",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-pantsonfire.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2016-02-25 23:43:06",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Health Care",
+    "subject_slug": "health-care"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2016/feb/21/ted-cruz/do-republicans-think-donald-trump-right-candidate-/",
+  "target": [
+   {
+    "party": {
+     "party": "Republican",
+     "party_slug": "republican"
+    },
+    "first_name": "Donald",
+    "last_name": "Trump",
+    "name_slug": "donald-trump",
+    "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2Ftrump_1.jpg"
+   }
+  ],
+  "statement_date": "2016-02-21",
+  "statement_context": "an interview on \"Meet the Press\"",
+  "speaker": {
+   "party": {
+    "party": "Republican",
+    "party_slug": "republican"
+   },
+   "first_name": "Ted",
+   "last_name": "Cruz",
+   "name_slug": "ted-cruz",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FTed_Cruz_1.jpg"
+  },
+  "ruling_headline": "Do Republicans think Donald Trump is the right candidate to beat Hillary Clinton?",
+  "statement": "\u003cp\u003e\u0026quot;About 70 percent\u0026nbsp;of Republicans nationwide ...\u0026nbsp;don\u0026#39;t think Donald Trump is the right guy\u0026quot; to take on Hillary Clinton in November.\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "mostly-true",
+   "ruling": "Mostly True",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-mostlytrue.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2016-02-21 16:53:46",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Elections",
+    "subject_slug": "elections"
+   },
+   {
+    "subject": "Polls and Public Opinion",
+    "subject_slug": "polls"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2016/feb/16/ted-cruz/cruz-trump-thinks-his-sister-hardcore-pro-abortion/",
+  "target": [],
+  "statement_date": "2016-02-14",
+  "statement_context": "on ABC's \"This Week\"",
+  "speaker": {
+   "party": {
+    "party": "Republican",
+    "party_slug": "republican"
+   },
+   "first_name": "Ted",
+   "last_name": "Cruz",
+   "name_slug": "ted-cruz",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FTed_Cruz_1.jpg"
+  },
+  "ruling_headline": "Cruz wrongly says Trump's only Supreme Court pick is his sister, a 'hardcore pro-abortion liberal'",
+  "statement": "\u003cp\u003eSays \u0026quot;the one person (Donald Trump)\u0026nbsp;has suggested that would make a good justice is his sister, who is a court of appeals judge appointed by Bill Clinton. She is a hardcore pro-abortion liberal judge.\u0026quot;\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "barely-true",
+   "ruling": "Mostly False",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-mostlyfalse.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2016-02-16 14:25:06",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Abortion",
+    "subject_slug": "abortion"
+   },
+   {
+    "subject": "Supreme Court",
+    "subject_slug": "supreme-court"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2016/feb/14/ted-cruz/ted-cruz-supreme-court-nomination-tradition/",
+  "target": [],
+  "statement_date": "2016-02-14",
+  "statement_context": "comments on \"Meet the Press\"",
+  "speaker": {
+   "party": {
+    "party": "Republican",
+    "party_slug": "republican"
+   },
+   "first_name": "Ted",
+   "last_name": "Cruz",
+   "name_slug": "ted-cruz",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FTed_Cruz_1.jpg"
+  },
+  "ruling_headline": "Ted Cruz overstates Supreme Court nomination 'tradition'",
+  "statement": "\u003cp\u003e\u0026quot;It has been 80 years since a Supreme Court vacancy was nominated and confirmed in an election year. There is a long tradition that you don\u0026#39;t do this in an election year.\u0026quot;\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "half-true",
+   "ruling": "Half-True",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-halftrue.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2016-02-14 16:16:04",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Supreme Court",
+    "subject_slug": "supreme-court"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2016/feb/06/ted-cruz/ted-cruz-falsely-says-cnn-first-said-ben-carson-wa/",
+  "target": [
+   {
+    "party": {
+     "party": "None",
+     "party_slug": "none"
+    },
+    "first_name": "",
+    "last_name": "CNN",
+    "name_slug": "cnn",
+    "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FCNN-Logo_1.jpg"
+   }
+  ],
+  "statement_date": "2016-02-06",
+  "statement_context": "the New Hampshire GOP debate",
+  "speaker": {
+   "party": {
+    "party": "Republican",
+    "party_slug": "republican"
+   },
+   "first_name": "Ted",
+   "last_name": "Cruz",
+   "name_slug": "ted-cruz",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FTed_Cruz_1.jpg"
+  },
+  "ruling_headline": "Ted Cruz falsely says campaign simply 'forwarded' CNN's report on Ben Carson",
+  "statement": "\u003cp\u003eSays CNN reported Ben Carson was \u0026quot;taking a break from campaigning\u0026quot; and the Cruz campaign \u0026quot;forwarded that news to our volunteers.\u0026quot;\u003c/p\u003e\r\n\r\n\u003cdiv\u003e\u0026nbsp;\u003c/div\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "false",
+   "ruling": "False",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-false.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2016-02-06 21:57:56",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Candidate Biography",
+    "subject_slug": "candidates-biography"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2016/feb/03/ted-cruz/ted-cruz-says-median-african-american-family-was-5/",
+  "target": [],
+  "statement_date": "2016-02-03",
+  "statement_context": "a town hall in Henniker, N.H.",
+  "speaker": {
+   "party": {
+    "party": "Republican",
+    "party_slug": "republican"
+   },
+   "first_name": "Ted",
+   "last_name": "Cruz",
+   "name_slug": "ted-cruz",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FTed_Cruz_1.jpg"
+  },
+  "ruling_headline": "Ted Cruz off on claim that median African-American income rose $5,000 under Reagan",
+  "statement": "\u003cp\u003e\u0026quot;During eight years under Ronald Reagan, African-American median income rose by about $5,000.\u0026quot;\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "barely-true",
+   "ruling": "Mostly False",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-mostlyfalse.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2016-02-03 18:04:08",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Corrections and Updates",
+    "subject_slug": "corrections-and-updates"
+   },
+   {
+    "subject": "Economy",
+    "subject_slug": "economy"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2016/feb/03/ted-cruz/cruz-repeats-false-attack-about-gang-8-bill-allowi/",
+  "target": [],
+  "statement_date": "2016-02-02",
+  "statement_context": "a town hall event in Windham, N.H.",
+  "speaker": {
+   "party": {
+    "party": "Republican",
+    "party_slug": "republican"
+   },
+   "first_name": "Ted",
+   "last_name": "Cruz",
+   "name_slug": "ted-cruz",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FTed_Cruz_1.jpg"
+  },
+  "ruling_headline": "Cruz repeats False attack about immigration bill letting Syrians in U.S. without background checks",
+  "statement": "\u003cp\u003eThe 2013 immigration bill \u0026quot;expanded President Obama\u0026rsquo;s ability to bring Syrian refugees to this country without mandating any meaningful background checks.\u0026quot;\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "false",
+   "ruling": "False",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-false.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2016-02-03 14:19:33",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Immigration",
+    "subject_slug": "immigration"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2016/jan/31/ted-cruz/ted-cruzs-false-claim-trump-clinton-and-sanders-ha/",
+  "target": [
+   {
+    "party": {
+     "party": "Republican",
+     "party_slug": "republican"
+    },
+    "first_name": "Donald",
+    "last_name": "Trump",
+    "name_slug": "donald-trump",
+    "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2Ftrump_1.jpg"
+   }
+  ],
+  "statement_date": "2016-01-31",
+  "statement_context": "comments on \"Meet the Press\"",
+  "speaker": {
+   "party": {
+    "party": "Republican",
+    "party_slug": "republican"
+   },
+   "first_name": "Ted",
+   "last_name": "Cruz",
+   "name_slug": "ted-cruz",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FTed_Cruz_1.jpg"
+  },
+  "ruling_headline": "Ted Cruz's false claim that Trump, Clinton and Sanders 'have the identical position on health care'",
+  "statement": "\u003cp\u003e\u0026quot;Donald Trump and Hillary Clinton and Bernie Sanders have the identical position on health care, which is they want to put the government in charge of you and your doctor.\u0026quot;\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "false",
+   "ruling": "False",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-false.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2016-01-31 16:16:16",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Health Care",
+    "subject_slug": "health-care"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2016/jan/29/ted-cruz/ted-cruzs-pants-fire-claim-health-care-law-nations/",
+  "target": [],
+  "statement_date": "2016-01-28",
+  "statement_context": "comments during the Iowa Republican presidential debate",
+  "speaker": {
+   "party": {
+    "party": "Republican",
+    "party_slug": "republican"
+   },
+   "first_name": "Ted",
+   "last_name": "Cruz",
+   "name_slug": "ted-cruz",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FTed_Cruz_1.jpg"
+  },
+  "ruling_headline": "Ted Cruz's Pants on Fire claim that health care law is nation's 'biggest job-killer'",
+  "statement": "\u003cp\u003eObamacare \u0026quot;is the biggest job-killer in this country -- millions of Americans have lost their jobs, have been forced into part-time work.\u0026quot;\u003c/p\u003e\r\n\r\n\u003cp\u003e\u0026nbsp;\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "pants-fire",
+   "ruling": "Pants on Fire!",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-pantsonfire.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2016-01-29 13:54:21",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Health Care",
+    "subject_slug": "health-care"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2016/jan/28/ted-cruz/ted-cruz-said-he-never-insulted-donald-trump-recor/",
+  "target": [],
+  "statement_date": "2016-01-28",
+  "statement_context": "comments during the Iowa Republican presidential debate",
+  "speaker": {
+   "party": {
+    "party": "Republican",
+    "party_slug": "republican"
+   },
+   "first_name": "Ted",
+   "last_name": "Cruz",
+   "name_slug": "ted-cruz",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FTed_Cruz_1.jpg"
+  },
+  "ruling_headline": "Ted Cruz said he never insulted Donald Trump. The record suggests otherwise",
+  "statement": "\u003cp\u003e\u0026quot;I have not insulted Donald personally.\u0026quot;\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "barely-true",
+   "ruling": "Mostly False",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-mostlyfalse.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2016-01-28 22:59:25",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Candidate Biography",
+    "subject_slug": "candidates-biography"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2016/jan/28/ted-cruz/ted-cruz-says-barack-obama-has-dramatically-degrad/",
+  "target": [
+   {
+    "party": {
+     "party": "Democrat",
+     "party_slug": "democrat"
+    },
+    "first_name": "Barack",
+    "last_name": "Obama",
+    "name_slug": "barack-obama",
+    "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2Fobamamug_1.jpg"
+   }
+  ],
+  "statement_date": "2016-01-28",
+  "statement_context": "a Fox News debate ",
+  "speaker": {
+   "party": {
+    "party": "Republican",
+    "party_slug": "republican"
+   },
+   "first_name": "Ted",
+   "last_name": "Cruz",
+   "name_slug": "ted-cruz",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FTed_Cruz_1.jpg"
+  },
+  "ruling_headline": "Ted Cruz says Barack Obama 'dramatically degraded our military'",
+  "statement": "\u003cp\u003e\u0026quot;Barack Obama, right now, No. 1, over seven years has dramatically degraded our military.\u0026quot;\u003c/p\u003e\r\n\r\n\u003cdiv\u003e\u0026nbsp;\u003c/div\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "barely-true",
+   "ruling": "Mostly False",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-mostlyfalse.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2016-01-28 22:43:34",
+  "statement_type": {
+   "statement_type": "Attack"
+  },
+  "subject": [
+   {
+    "subject": "Federal Budget",
+    "subject_slug": "federal-budget"
+   },
+   {
+    "subject": "Military",
+    "subject_slug": "military"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2016/jan/15/marco-rubio/rubio-mischaracterizes-cruzs-statement-birthright-/",
+  "target": [
+   {
+    "party": {
+     "party": "Republican",
+     "party_slug": "republican"
+    },
+    "first_name": "Ted",
+    "last_name": "Cruz",
+    "name_slug": "ted-cruz",
+    "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FTed_Cruz_1.jpg"
+   }
+  ],
+  "statement_date": "2016-01-14",
+  "statement_context": "a Republican presidential debate in North Charleston, S.C.",
+  "speaker": {
+   "party": {
+    "party": "Republican",
+    "party_slug": "republican"
+   },
+   "first_name": "Marco",
+   "last_name": "Rubio",
+   "name_slug": "marco-rubio",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FMarco_Rubio.jpg"
+  },
+  "ruling_headline": "Rubio mischaracterizes Cruz's statement on birthright citizenship",
+  "statement": "\u003cp\u003eSays Sen. Ted Cruz used to be \u0026quot;in favor of birthright citizenship\u0026quot; but is now against it.\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "barely-true",
+   "ruling": "Mostly False",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-mostlyfalse.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2016-01-15 12:20:12",
+  "statement_type": {
+   "statement_type": "Attack"
+  },
+  "subject": [
+   {
+    "subject": "Immigration",
+    "subject_slug": "immigration"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2016/jan/15/ted-cruz/gop-debate-cruz-says-he-voted-rubio-defense-spendi/",
+  "target": [],
+  "statement_date": "2016-01-14",
+  "statement_context": "a Republican presidential debate in North Charleston, S.C.",
+  "speaker": {
+   "party": {
+    "party": "Republican",
+    "party_slug": "republican"
+   },
+   "first_name": "Ted",
+   "last_name": "Cruz",
+   "name_slug": "ted-cruz",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FTed_Cruz_1.jpg"
+  },
+  "ruling_headline": "Cruz is right in back-and-forth with Rubio about vote on defense spending",
+  "statement": "\u003cp\u003eSays Marco Rubio \u0026quot;knows full well I voted for his amendment to increase military spending to $697 billion.\u0026quot;\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "true",
+   "ruling": "True",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Frulings%2Frulings-tom-true.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2016-01-15 11:22:01",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Federal Budget",
+    "subject_slug": "federal-budget"
+   },
+   {
+    "subject": "Military",
+    "subject_slug": "military"
+   },
+   {
+    "subject": "Voting Record",
+    "subject_slug": "voting-record"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2016/jan/15/ted-cruz/did-former-attorney-general-eric-holder-say-he-vie/",
+  "target": [
+   {
+    "party": {
+     "party": "Democrat",
+     "party_slug": "democrat"
+    },
+    "first_name": "Eric",
+    "last_name": "Holder",
+    "name_slug": "eric-holder",
+    "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2Feric_holder.jpg"
+   },
+   {
+    "party": {
+     "party": "Democrat",
+     "party_slug": "democrat"
+    },
+    "first_name": "Barack",
+    "last_name": "Obama",
+    "name_slug": "barack-obama",
+    "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2Fobamamug_1.jpg"
+   }
+  ],
+  "statement_date": "2016-01-15",
+  "statement_context": "a Republican presidential debate in North Charleston, S.C.",
+  "speaker": {
+   "party": {
+    "party": "Republican",
+    "party_slug": "republican"
+   },
+   "first_name": "Ted",
+   "last_name": "Cruz",
+   "name_slug": "ted-cruz",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FTed_Cruz_1.jpg"
+  },
+  "ruling_headline": "Did former Attorney General Eric Holder say he viewed his mission as 'brainwashing' against guns?",
+  "statement": "\u003cp\u003eSays President Barack Obama \u0026quot;appointed Eric Holder as attorney general. Eric Holder said he viewed his mission as brainwashing the American people against guns.\u0026quot;\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "half-true",
+   "ruling": "Half-True",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-halftrue.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2016-01-15 00:34:56",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Crime",
+    "subject_slug": "crime"
+   },
+   {
+    "subject": "Criminal Justice",
+    "subject_slug": "criminal-justice"
+   },
+   {
+    "subject": "Guns",
+    "subject_slug": "guns"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2016/jan/15/ted-cruz/did-former-attorney-general-eric-holder-say-he-vie/",
+  "target": [
+   {
+    "party": {
+     "party": "Democrat",
+     "party_slug": "democrat"
+    },
+    "first_name": "Eric",
+    "last_name": "Holder",
+    "name_slug": "eric-holder",
+    "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2Feric_holder.jpg"
+   },
+   {
+    "party": {
+     "party": "Democrat",
+     "party_slug": "democrat"
+    },
+    "first_name": "Barack",
+    "last_name": "Obama",
+    "name_slug": "barack-obama",
+    "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2Fobamamug_1.jpg"
+   }
+  ],
+  "statement_date": "2016-01-15",
+  "statement_context": "a Republican presidential debate in North Charleston, S.C.",
+  "speaker": {
+   "party": {
+    "party": "Republican",
+    "party_slug": "republican"
+   },
+   "first_name": "Ted",
+   "last_name": "Cruz",
+   "name_slug": "ted-cruz",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FTed_Cruz_1.jpg"
+  },
+  "ruling_headline": "Did former Attorney General Eric Holder say he viewed his mission as 'brainwashing' against guns?",
+  "statement": "\u003cp\u003eSays President Barack Obama \u0026quot;appointed Eric Holder as attorney general. Eric Holder said he viewed his mission as brainwashing the American people against guns.\u0026quot;\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "half-true",
+   "ruling": "Half-True",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-halftrue.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2016-01-15 00:34:56",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Crime",
+    "subject_slug": "crime"
+   },
+   {
+    "subject": "Criminal Justice",
+    "subject_slug": "criminal-justice"
+   },
+   {
+    "subject": "Guns",
+    "subject_slug": "guns"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2016/jan/14/ted-cruz/ted-cruz-says-us-has-lowest-percentage-americans-w/",
+  "target": [],
+  "statement_date": "2016-01-14",
+  "statement_context": "the Fox Business Network debate",
+  "speaker": {
+   "party": {
+    "party": "Republican",
+    "party_slug": "republican"
+   },
+   "first_name": "Ted",
+   "last_name": "Cruz",
+   "name_slug": "ted-cruz",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FTed_Cruz_1.jpg"
+  },
+  "ruling_headline": "Ted Cruz says U.S. has 'lowest percentage of Americans working today of any year since 1977'",
+  "statement": "\u003cp\u003e\u0026quot;We have the lowest percentage of Americans working today of any year since 1977.\u0026quot;\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "mostly-true",
+   "ruling": "Mostly True",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-mostlytrue.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2016-01-14 22:24:09",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Economy",
+    "subject_slug": "economy"
+   },
+   {
+    "subject": "Jobs",
+    "subject_slug": "jobs"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2015/dec/18/ted-cruz/cruz-muddles-accusation-against-rubios-immigration/",
+  "target": [
+   {
+    "party": {
+     "party": "Republican",
+     "party_slug": "republican"
+    },
+    "first_name": "Marco",
+    "last_name": "Rubio",
+    "name_slug": "marco-rubio",
+    "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FMarco_Rubio.jpg"
+   }
+  ],
+  "statement_date": "2015-12-15",
+  "statement_context": "a Republican presidential debate in Las Vegas",
+  "speaker": {
+   "party": {
+    "party": "Republican",
+    "party_slug": "republican"
+   },
+   "first_name": "Ted",
+   "last_name": "Cruz",
+   "name_slug": "ted-cruz",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FTed_Cruz_1.jpg"
+  },
+  "ruling_headline": "Cruz muddles accusation against Rubio's 2013 immigration bill",
+  "statement": "\u003cp\u003e\u0026quot;One of the most troubling aspects of the Rubio-Schumer Gang of Eight bill was that it gave President Obama blanket authority to admit refugees, including Syrian refugees, without mandating any background checks whatsoever.\u0026quot;\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "false",
+   "ruling": "False",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-false.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2015-12-18 12:38:39",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Foreign Policy",
+    "subject_slug": "foreign-policy"
+   },
+   {
+    "subject": "Immigration",
+    "subject_slug": "immigration"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2015/dec/16/ted-cruz/ted-cruz-misfires-definition-carpet-bombing-gop-de/",
+  "target": [],
+  "statement_date": "2015-12-15",
+  "statement_context": "a Republican presidential debate in Las Vegas",
+  "speaker": {
+   "party": {
+    "party": "Republican",
+    "party_slug": "republican"
+   },
+   "first_name": "Ted",
+   "last_name": "Cruz",
+   "name_slug": "ted-cruz",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FTed_Cruz_1.jpg"
+  },
+  "ruling_headline": "Ted Cruz misfires on definition of 'carpet bombing' in GOP debate",
+  "statement": "\u003cp\u003eSays carpet bombing means bombing \u0026quot;not a city, but the location of the troops,\u0026quot; with \u0026quot;embedded special forces to direct the air power.\u0026quot;\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "false",
+   "ruling": "False",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-false.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2015-12-16 13:52:53",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Corrections and Updates",
+    "subject_slug": "corrections-and-updates"
+   },
+   {
+    "subject": "History",
+    "subject_slug": "history"
+   },
+   {
+    "subject": "Military",
+    "subject_slug": "military"
+   },
+   {
+    "subject": "Terrorism",
+    "subject_slug": "terrorism"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2015/dec/15/ted-cruz/ted-cruzs-claim-head-fbi-told-congress-they-cannot/",
+  "target": [],
+  "statement_date": "2015-12-15",
+  "statement_context": "a GOP debate on CNN",
+  "speaker": {
+   "party": {
+    "party": "Republican",
+    "party_slug": "republican"
+   },
+   "first_name": "Ted",
+   "last_name": "Cruz",
+   "name_slug": "ted-cruz",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FTed_Cruz_1.jpg"
+  },
+  "ruling_headline": "Ted Cruz's claim that the head of the FBI told Congress 'they cannot vet those refugees' from Syria",
+  "statement": "\u003cp\u003e\u0026quot;The head of the FBI has told Congress they cannot vet those (Syrian) refugees.\u0026quot;\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "barely-true",
+   "ruling": "Mostly False",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-mostlyfalse.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2015-12-15 21:45:24",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Foreign Policy",
+    "subject_slug": "foreign-policy"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2015/dec/14/ted-cruz/ted-cruz-misquotes-cia-official-makes-false-claim-/",
+  "target": [],
+  "statement_date": "2015-12-08",
+  "statement_context": "an interview with NPR",
+  "speaker": {
+   "party": {
+    "party": "Republican",
+    "party_slug": "republican"
+   },
+   "first_name": "Ted",
+   "last_name": "Cruz",
+   "name_slug": "ted-cruz",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FTed_Cruz_1.jpg"
+  },
+  "ruling_headline": "Ted Cruz misquotes CIA official, makes false claim on bombing ISIS oil and climate change",
+  "statement": "\u003cp\u003e\u0026quot;Mike Morell testified and told Congress that the reason Obama has not bombed ISIS\u0026#39;\u0026nbsp;oil fields is they\u0026#39;re concerned about global warming.\u0026quot;\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "false",
+   "ruling": "False",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-false.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2015-12-14 16:11:50",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Climate Change",
+    "subject_slug": "climate-change"
+   },
+   {
+    "subject": "Energy",
+    "subject_slug": "energy"
+   },
+   {
+    "subject": "Foreign Policy",
+    "subject_slug": "foreign-policy"
+   },
+   {
+    "subject": "Terrorism",
+    "subject_slug": "terrorism"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2015/dec/02/hillary-clinton/hillary-clintons-exaggerated-claim-ted-cruz-tried-/",
+  "target": [
+   {
+    "party": {
+     "party": "Republican",
+     "party_slug": "republican"
+    },
+    "first_name": "Ted",
+    "last_name": "Cruz",
+    "name_slug": "ted-cruz",
+    "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FTed_Cruz_1.jpg"
+   }
+  ],
+  "statement_date": "2015-12-01",
+  "statement_context": "a post on her campaign website",
+  "speaker": {
+   "party": {
+    "party": "Democrat",
+    "party_slug": "democrat"
+   },
+   "first_name": "Hillary",
+   "last_name": "Clinton",
+   "name_slug": "hillary-clinton",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2Fclinton_mug.jpg"
+  },
+  "ruling_headline": "Hillary Clinton's exaggerated claim that Ted Cruz 'tried to ban contraception' five times",
+  "statement": "\u003cp\u003e\u0026quot;Ted Cruz tried to ban contraception\u0026quot; five times.\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "barely-true",
+   "ruling": "Mostly False",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-mostlyfalse.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2015-12-02 18:14:28",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Abortion",
+    "subject_slug": "abortion"
+   },
+   {
+    "subject": "Health Care",
+    "subject_slug": "health-care"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2015/dec/01/ted-cruz/are-overwhelming-majority-violent-criminals-democr/",
+  "target": [],
+  "statement_date": "2015-11-30",
+  "statement_context": "a radio interview with Hugh Hewitt",
+  "speaker": {
+   "party": {
+    "party": "Republican",
+    "party_slug": "republican"
+   },
+   "first_name": "Ted",
+   "last_name": "Cruz",
+   "name_slug": "ted-cruz",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FTed_Cruz_1.jpg"
+  },
+  "ruling_headline": "Are the 'overwhelming majority of violent criminals' Democrats? Ted Cruz said so",
+  "statement": "\u003cp\u003e\u0026quot;Here\u0026rsquo;s the simple and undeniable fact: The overwhelming majority of violent criminals are Democrats.\u0026quot;\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "barely-true",
+   "ruling": "Mostly False",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-mostlyfalse.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2015-12-01 15:55:56",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Crime",
+    "subject_slug": "crime"
+   },
+   {
+    "subject": "Criminal Justice",
+    "subject_slug": "criminal-justice"
+   },
+   {
+    "subject": "Legal Issues",
+    "subject_slug": "legal-issues"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2015/nov/10/ted-cruz/ted-cruz-says-us-tax-code-has-more-words-bible/",
+  "target": [],
+  "statement_date": "2015-11-10",
+  "statement_context": "the Republican presidential debate in Milwaukee, Wis.",
+  "speaker": {
+   "party": {
+    "party": "Republican",
+    "party_slug": "republican"
+   },
+   "first_name": "Ted",
+   "last_name": "Cruz",
+   "name_slug": "ted-cruz",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FTed_Cruz_1.jpg"
+  },
+  "ruling_headline": "Ted Cruz says U.S. tax code has more words than the Bible",
+  "statement": "\u003cp\u003e\u0026quot;There are more words in the IRS code than there are in the Bible.\u0026quot;\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "true",
+   "ruling": "True",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Frulings%2Frulings-tom-true.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2015-11-10 23:58:18",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Taxes",
+    "subject_slug": "taxes"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2015/oct/29/ted-cruz/ted-cruz-says-median-wage-women-has-dropped-733-un/",
+  "target": [
+   {
+    "party": {
+     "party": "Democrat",
+     "party_slug": "democrat"
+    },
+    "first_name": "Barack",
+    "last_name": "Obama",
+    "name_slug": "barack-obama",
+    "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2Fobamamug_1.jpg"
+   }
+  ],
+  "statement_date": "2015-10-28",
+  "statement_context": "a Republican presidential debate in Boulder, Colo.",
+  "speaker": {
+   "party": {
+    "party": "Republican",
+    "party_slug": "republican"
+   },
+   "first_name": "Ted",
+   "last_name": "Cruz",
+   "name_slug": "ted-cruz",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FTed_Cruz_1.jpg"
+  },
+  "ruling_headline": "Ted Cruz says median wage for women has dropped $733 under Obama",
+  "statement": "\u003cp\u003e\u0026quot;Under Barack Obama and the big government economy, the median wage for women has dropped $733.\u0026quot;\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "false",
+   "ruling": "False",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-false.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2015-10-29 14:31:45",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Economy",
+    "subject_slug": "economy"
+   },
+   {
+    "subject": "Jobs",
+    "subject_slug": "jobs"
+   },
+   {
+    "subject": "Women",
+    "subject_slug": "women"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2015/oct/18/ted-cruz/ted-cruz-says-gop-leadership-took-lead-confirming-/",
+  "target": [
+   {
+    "party": {
+     "party": "Republican",
+     "party_slug": "republican"
+    },
+    "first_name": "Mitch",
+    "last_name": "McConnell",
+    "name_slug": "mitch-mcconnell",
+    "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2Fmcconnell.jpg"
+   }
+  ],
+  "statement_date": "2015-10-18",
+  "statement_context": "an interview on NBC's 'Meet the Press'",
+  "speaker": {
+   "party": {
+    "party": "Republican",
+    "party_slug": "republican"
+   },
+   "first_name": "Ted",
+   "last_name": "Cruz",
+   "name_slug": "ted-cruz",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FTed_Cruz_1.jpg"
+  },
+  "ruling_headline": "Ted Cruz says GOP leadership 'took the lead confirming Loretta Lynch as attorney general'",
+  "statement": "\u003cp\u003e\u0026quot;Republican leadership took the lead confirming Loretta Lynch as attorney general.\u0026quot;\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "barely-true",
+   "ruling": "Mostly False",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-mostlyfalse.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2015-10-18 18:36:46",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Congressional Rules",
+    "subject_slug": "congressional-rules"
+   },
+   {
+    "subject": "Legal Issues",
+    "subject_slug": "legal-issues"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2015/sep/25/ted-cruz/ted-cruz-says-slow-economic-growth-under-jimmy-car/",
+  "target": [],
+  "statement_date": "2015-09-21",
+  "statement_context": "an interview with CBS' Stephen Colbert",
+  "speaker": {
+   "party": {
+    "party": "Republican",
+    "party_slug": "republican"
+   },
+   "first_name": "Ted",
+   "last_name": "Cruz",
+   "name_slug": "ted-cruz",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FTed_Cruz_1.jpg"
+  },
+  "ruling_headline": "Ted Cruz says slow economic growth under Jimmy Carter, Barack Obama stands apart",
+  "statement": "\u003cp\u003e\u0026quot;When (Ronald) Reagan came in, from 1978 to 1982, economic growth averaged less than 1 percent a year. There\u0026rsquo;s only one other four-year period where that\u0026rsquo;s true. That\u0026rsquo;s true from 2008 to 2012.\u0026quot;\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "barely-true",
+   "ruling": "Mostly False",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-mostlyfalse.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2015-09-25 11:50:16",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Economy",
+    "subject_slug": "economy"
+   },
+   {
+    "subject": "History",
+    "subject_slug": "history"
+   },
+   {
+    "subject": "Jobs",
+    "subject_slug": "jobs"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2015/sep/16/ted-cruz/ted-cruz-most-gop-candidates-publicly-embraced-amn/",
+  "target": [],
+  "statement_date": "2015-09-16",
+  "statement_context": "comments during the CNN debate",
+  "speaker": {
+   "party": {
+    "party": "Republican",
+    "party_slug": "republican"
+   },
+   "first_name": "Ted",
+   "last_name": "Cruz",
+   "name_slug": "ted-cruz",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FTed_Cruz_1.jpg"
+  },
+  "ruling_headline": "Ted Cruz: most GOP candidates 'publicly embraced amnesty'",
+  "statement": "\u003cp\u003e\u0026quot;A\u0026nbsp;majority of the men and women on this stage have previously and publicly embraced amnesty. I am the only candidate on this stage who has never supported\u0026nbsp;amnesty.\u0026quot;\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "mostly-true",
+   "ruling": "Mostly True",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-mostlytrue.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2015-09-16 22:42:55",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Immigration",
+    "subject_slug": "immigration"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2015/sep/10/ted-cruz/ted-cruz-says-deal-will-facilitate-and-accelerate-/",
+  "target": [],
+  "statement_date": "2015-09-09",
+  "statement_context": "a tweet",
+  "speaker": {
+   "party": {
+    "party": "Republican",
+    "party_slug": "republican"
+   },
+   "first_name": "Ted",
+   "last_name": "Cruz",
+   "name_slug": "ted-cruz",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FTed_Cruz_1.jpg"
+  },
+  "ruling_headline": "Ted Cruz says deal will 'facilitate and accelerate' Iran getting a nuclear bomb",
+  "statement": "\u003cp\u003e\u0026quot;The Iran Deal will facilitate and accelerate the nation of Iran acquiring nuclear weapons.\u0026quot;\u003c/p\u003e\r\n\r\n\u003cp\u003e\u0026nbsp;\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "false",
+   "ruling": "False",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-false.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2015-09-10 17:32:48",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Corrections and Updates",
+    "subject_slug": "corrections-and-updates"
+   },
+   {
+    "subject": "Foreign Policy",
+    "subject_slug": "foreign-policy"
+   },
+   {
+    "subject": "Nuclear",
+    "subject_slug": "nuclear"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2015/aug/07/ted-cruz/ted-cruz-most-gop-candidates-have-supported-amnest/",
+  "target": [],
+  "statement_date": "2015-08-06",
+  "statement_context": "in comments at a GOP debate in Cleveland",
+  "speaker": {
+   "party": {
+    "party": "Republican",
+    "party_slug": "republican"
+   },
+   "first_name": "Ted",
+   "last_name": "Cruz",
+   "name_slug": "ted-cruz",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FTed_Cruz_1.jpg"
+  },
+  "ruling_headline": "Ted Cruz: most GOP candidates 'have supported amnesty'",
+  "statement": "\u003cp\u003e\u0026quot;A majority of the candidates on this stage have supported amnesty ... I have never supported amnesty.\u0026quot;\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "mostly-true",
+   "ruling": "Mostly True",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-mostlytrue.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2015-08-07 17:10:35",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Candidate Biography",
+    "subject_slug": "candidates-biography"
+   },
+   {
+    "subject": "Immigration",
+    "subject_slug": "immigration"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2015/jul/08/ted-cruz/ted-cruz-changed-position-trade-promotion-authorit/",
+  "target": [],
+  "statement_date": "2015-06-23",
+  "statement_context": "an op-ed on Breitbart",
+  "speaker": {
+   "party": {
+    "party": "Republican",
+    "party_slug": "republican"
+   },
+   "first_name": "Ted",
+   "last_name": "Cruz",
+   "name_slug": "ted-cruz",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FTed_Cruz_1.jpg"
+  },
+  "ruling_headline": "Ted Cruz changed position on Trade Promotion Authority, also called fast-track",
+  "statement": "\u003cp\u003eOn support for Trade Promotion Authority, called\u0026nbsp;fast-track\u0026nbsp;\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "full-flop",
+   "ruling": "Full Flop",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ffom-fullFlop.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2015-07-08 10:08:42",
+  "statement_type": {
+   "statement_type": "Flip"
+  },
+  "subject": [
+   {
+    "subject": "Trade",
+    "subject_slug": "trade"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2015/jul/01/ted-cruz/ted-cruz-says-supreme-court-same-sex-marriage-out-/",
+  "target": [],
+  "statement_date": "2015-06-29",
+  "statement_context": "an interview on NPR",
+  "speaker": {
+   "party": {
+    "party": "Republican",
+    "party_slug": "republican"
+   },
+   "first_name": "Ted",
+   "last_name": "Cruz",
+   "name_slug": "ted-cruz",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FTed_Cruz_1.jpg"
+  },
+  "ruling_headline": "Ted Cruz says Supreme Court on same-sex marriage is out of step with public, but polls don’t agree",
+  "statement": "\u003cp\u003eThe Supreme Court\u0026rsquo;s views \u0026quot;are radically out of step with public opinion\u0026quot; regarding its decision to legalize same-sex marriage nationwide.\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "barely-true",
+   "ruling": "Mostly False",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-mostlyfalse.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2015-07-01 15:00:00",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Gays and Lesbians",
+    "subject_slug": "gays-and-lesbians"
+   },
+   {
+    "subject": "Polls and Public Opinion",
+    "subject_slug": "polls"
+   },
+   {
+    "subject": "Supreme Court",
+    "subject_slug": "supreme-court"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2015/mar/24/ted-cruz/ted-cruz-small-business-are-going-out-business-rec/",
+  "target": [],
+  "statement_date": "2015-03-23",
+  "statement_context": "a speech at Liberty University",
+  "speaker": {
+   "party": {
+    "party": "Republican",
+    "party_slug": "republican"
+   },
+   "first_name": "Ted",
+   "last_name": "Cruz",
+   "name_slug": "ted-cruz",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FTed_Cruz_1.jpg"
+  },
+  "ruling_headline": "Ted Cruz: Small business are going out of business 'in record numbers'",
+  "statement": "\u003cp\u003e\u0026quot;Small businesses (are) going out of business in record numbers.\u0026quot;\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "false",
+   "ruling": "False",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-false.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2015-03-24 17:11:25",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Economy",
+    "subject_slug": "economy"
+   },
+   {
+    "subject": "Small Business",
+    "subject_slug": "small-business"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2015/mar/20/ted-cruz/ted-cruzs-worlds-fire-not-last-17-years/",
+  "target": [],
+  "statement_date": "2015-03-17",
+  "statement_context": "an interview on \"Late Night with Seth Meyers\"",
+  "speaker": {
+   "party": {
+    "party": "Republican",
+    "party_slug": "republican"
+   },
+   "first_name": "Ted",
+   "last_name": "Cruz",
+   "name_slug": "ted-cruz",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FTed_Cruz_1.jpg"
+  },
+  "ruling_headline": "Ted Cruz's world's on fire, but not for the last 17 years",
+  "statement": "\u003cp\u003e\u0026quot;Many of the alarmists on global warming, they\u0026rsquo;ve got a problem because the science doesn\u0026rsquo;t back them up. In particular, satellite data demonstrate for the last 17 years, there\u0026rsquo;s been zero warming.\u0026quot;\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "barely-true",
+   "ruling": "Mostly False",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-mostlyfalse.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2015-03-20 12:14:52",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Climate Change",
+    "subject_slug": "climate-change"
+   },
+   {
+    "subject": "Science",
+    "subject_slug": "science"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2015/feb/10/ted-cruz/ted-cruz-says-92-million-americans-arent-working/",
+  "target": [],
+  "statement_date": "2015-02-08",
+  "statement_context": "an interview on CNN's \"State of the Union\"",
+  "speaker": {
+   "party": {
+    "party": "Republican",
+    "party_slug": "republican"
+   },
+   "first_name": "Ted",
+   "last_name": "Cruz",
+   "name_slug": "ted-cruz",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FTed_Cruz_1.jpg"
+  },
+  "ruling_headline": "Ted Cruz says 92 million Americans aren't working",
+  "statement": "\u003cp\u003e\u0026quot;92 million Americans aren\u0026#39;t working.\u0026quot;\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "barely-true",
+   "ruling": "Mostly False",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-mostlyfalse.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2015-02-10 10:00:00",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Economy",
+    "subject_slug": "economy"
+   },
+   {
+    "subject": "Jobs",
+    "subject_slug": "jobs"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2015/feb/08/ted-cruz/ted-cruz-says-obama-refuses-directly-arm-kurds-isi/",
+  "target": [],
+  "statement_date": "2015-02-08",
+  "statement_context": "comments on CNN's \"State of the Union\"",
+  "speaker": {
+   "party": {
+    "party": "Republican",
+    "party_slug": "republican"
+   },
+   "first_name": "Ted",
+   "last_name": "Cruz",
+   "name_slug": "ted-cruz",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FTed_Cruz_1.jpg"
+  },
+  "ruling_headline": "Ted Cruz says Obama refuses to directly arm Kurds in ISIS fight",
+  "statement": "\u003cp\u003e\u0026quot;The Obama administration is refusing to directly arm the Kurds.\u0026quot;\u003c/p\u003e\r\n\r\n\u003cdiv\u003e\u0026nbsp;\u003c/div\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "mostly-true",
+   "ruling": "Mostly True",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-mostlytrue.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2015-02-08 17:18:37",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Foreign Policy",
+    "subject_slug": "foreign-policy"
+   },
+   {
+    "subject": "Iraq",
+    "subject_slug": "iraq"
+   },
+   {
+    "subject": "Terrorism",
+    "subject_slug": "terrorism"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2014/nov/21/ted-cruz/ted-cruz-says-2014-elections-voters-made-clear-the/",
+  "target": [],
+  "statement_date": "2014-11-19",
+  "statement_context": "an interview on Fox News",
+  "speaker": {
+   "party": {
+    "party": "Republican",
+    "party_slug": "republican"
+   },
+   "first_name": "Ted",
+   "last_name": "Cruz",
+   "name_slug": "ted-cruz",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FTed_Cruz_1.jpg"
+  },
+  "ruling_headline": "Ted Cruz says in 2014 elections, voters made clear their opposition to Obamacare, 'amnesty'",
+  "statement": "\u003cp\u003eIn the 2014 elections, \u0026quot;the American people overwhelmingly said we don\u0026#39;t want Obamacare \u0026hellip; and we don\u0026#39;t want amnesty.\u0026quot;\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "false",
+   "ruling": "False",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-false.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2014-11-21 11:34:42",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Health Care",
+    "subject_slug": "health-care"
+   },
+   {
+    "subject": "Immigration",
+    "subject_slug": "immigration"
+   },
+   {
+    "subject": "Polls and Public Opinion",
+    "subject_slug": "polls"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2014/nov/13/ted-cruz/cruz-net-neutrality-regulations-put-government-cha/",
+  "target": [],
+  "statement_date": "2014-11-10",
+  "statement_context": "a Facebook post",
+  "speaker": {
+   "party": {
+    "party": "Republican",
+    "party_slug": "republican"
+   },
+   "first_name": "Ted",
+   "last_name": "Cruz",
+   "name_slug": "ted-cruz",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FTed_Cruz_1.jpg"
+  },
+  "ruling_headline": "Ted Cruz: Net neutrality regulations put government in charge of Internet prices, services",
+  "statement": "\u003cp\u003eSays Obama\u0026#39;s net neutrality proposal\u0026nbsp;\u0026quot;puts the government in charge of determining Internet pricing, terms of service and what types of products and services can be delivered.\u0026quot;\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "half-true",
+   "ruling": "Half-True",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-halftrue.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2014-11-13 14:59:06",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Government regulation",
+    "subject_slug": "government-regulation"
+   },
+   {
+    "subject": "Technology",
+    "subject_slug": "technology"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2014/oct/23/ted-cruz/cruz-obamas-surgeon-general-pick-not-health-profes/",
+  "target": [],
+  "statement_date": "2014-10-19",
+  "statement_context": "an interview on CNN",
+  "speaker": {
+   "party": {
+    "party": "Republican",
+    "party_slug": "republican"
+   },
+   "first_name": "Ted",
+   "last_name": "Cruz",
+   "name_slug": "ted-cruz",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FTed_Cruz_1.jpg"
+  },
+  "ruling_headline": "Cruz: Obama's surgeon general pick is not a 'health professional'",
+  "statement": "\u003cp\u003e\u0026quot;Obama, instead of nominating a health professional, he nominated someone who is an anti-gun activist (for surgeon general).\u0026quot;\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "false",
+   "ruling": "False",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-false.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2014-10-23 18:28:59",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Congress",
+    "subject_slug": "congress"
+   },
+   {
+    "subject": "Corrections and Updates",
+    "subject_slug": "corrections-and-updates"
+   },
+   {
+    "subject": "Ebola",
+    "subject_slug": "ebola"
+   },
+   {
+    "subject": "Guns",
+    "subject_slug": "guns"
+   },
+   {
+    "subject": "Health Care",
+    "subject_slug": "health-care"
+   },
+   {
+    "subject": "Public Health",
+    "subject_slug": "public-health"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2014/sep/11/ted-cruz/ted-cruz-says-snls-lorne-michaels-could-be-jailed-/",
+  "target": [],
+  "statement_date": "2014-09-09",
+  "statement_context": "a Senate floor speech",
+  "speaker": {
+   "party": {
+    "party": "Republican",
+    "party_slug": "republican"
+   },
+   "first_name": "Ted",
+   "last_name": "Cruz",
+   "name_slug": "ted-cruz",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FTed_Cruz_1.jpg"
+  },
+  "ruling_headline": "Ted Cruz says SNL's Lorne Michaels could be jailed under Democratic-backed amendment",
+  "statement": "\u003cp\u003eSaturday Night Live executive producer \u0026quot;Lorne Michaels could be put in jail under this amendment for making fun of any politician.\u0026quot;\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "half-true",
+   "ruling": "Half-True",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-halftrue.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2014-09-11 16:54:56",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Campaign Finance",
+    "subject_slug": "campaign-finance"
+   },
+   {
+    "subject": "Legal Issues",
+    "subject_slug": "legal-issues"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2014/jun/01/ted-cruz/ted-cruz-us-policy-has-changed-now-we-make-deals-t/",
+  "target": [],
+  "statement_date": "2014-06-01",
+  "statement_context": "comments on ABC's \"This Week\"",
+  "speaker": {
+   "party": {
+    "party": "Republican",
+    "party_slug": "republican"
+   },
+   "first_name": "Ted",
+   "last_name": "Cruz",
+   "name_slug": "ted-cruz",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FTed_Cruz_1.jpg"
+  },
+  "ruling_headline": "Ted Cruz: 'U.S. policy has changed, now we make deals with terrorists'",
+  "statement": "\u003cp\u003eSays Barack Obama broke a decades-old policy of \u0026quot;not negotiating with terrorists.\u0026quot;\u003c/p\u003e\r\n\r\n\u003cp\u003e\u0026nbsp;\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "barely-true",
+   "ruling": "Mostly False",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-mostlyfalse.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2014-06-01 17:57:03",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Foreign Policy",
+    "subject_slug": "foreign-policy"
+   },
+   {
+    "subject": "Iraq",
+    "subject_slug": "iraq"
+   },
+   {
+    "subject": "Terrorism",
+    "subject_slug": "terrorism"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2014/mar/10/ted-cruz/ted-cruz-says-barack-obama-first-president-who-thi/",
+  "target": [],
+  "statement_date": "2014-03-06",
+  "statement_context": "a speech at the CPAC conference",
+  "speaker": {
+   "party": {
+    "party": "Republican",
+    "party_slug": "republican"
+   },
+   "first_name": "Ted",
+   "last_name": "Cruz",
+   "name_slug": "ted-cruz",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FTed_Cruz_1.jpg"
+  },
+  "ruling_headline": "Ted Cruz says Barack Obama is first president 'who thinks he can choose which laws to enforce and which laws to ignore'",
+  "statement": "\u003cp\u003eSays President Barack Obama \u0026quot;is the first president we\u0026#39;ve ever had who thinks he can choose which laws to enforce and which laws to ignore.\u0026quot;\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "false",
+   "ruling": "False",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-false.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2014-03-10 17:00:33",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Corrections and Updates",
+    "subject_slug": "corrections-and-updates"
+   },
+   {
+    "subject": "History",
+    "subject_slug": "history"
+   },
+   {
+    "subject": "Legal Issues",
+    "subject_slug": "legal-issues"
+   },
+   {
+    "subject": "Supreme Court",
+    "subject_slug": "supreme-court"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2014/jan/26/ted-cruz/labor-force-participation-its-lowest-point-1978-sa/",
+  "target": [],
+  "statement_date": "2014-01-26",
+  "statement_context": "an interview on CBS' \"Face the Nation\"",
+  "speaker": {
+   "party": {
+    "party": "Republican",
+    "party_slug": "republican"
+   },
+   "first_name": "Ted",
+   "last_name": "Cruz",
+   "name_slug": "ted-cruz",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FTed_Cruz_1.jpg"
+  },
+  "ruling_headline": "Labor force participation is at lowest point since 1978, says Texas Sen. Ted Cruz",
+  "statement": "\u003cp\u003eUnder President Barack Obama,\u0026nbsp;\u0026quot;We\u0026rsquo;ve got the lowest labor force participation in over three decades, since 1978.\u0026quot;\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "mostly-true",
+   "ruling": "Mostly True",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-mostlytrue.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2014-01-26 15:54:43",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Economy",
+    "subject_slug": "economy"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2013/nov/15/ted-cruz/ted-cruz-says-gun-prosecutions-down-under-obama/",
+  "target": [],
+  "statement_date": "2013-11-08",
+  "statement_context": "in an interview on the \"Tonight Show\"",
+  "speaker": {
+   "party": {
+    "party": "Republican",
+    "party_slug": "republican"
+   },
+   "first_name": "Ted",
+   "last_name": "Cruz",
+   "name_slug": "ted-cruz",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FTed_Cruz_1.jpg"
+  },
+  "ruling_headline": "Sen. Ted Cruz says gun prosecutions down under Obama administration",
+  "statement": "\u003cp\u003e\u0026quot;Under President (George W.) Bush, prosecution of gun crimes was 30 percent higher than it is under President Obama.\u0026quot;\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "barely-true",
+   "ruling": "Mostly False",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-mostlyfalse.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2013-11-15 16:09:11",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Bush Administration",
+    "subject_slug": "bush-administration"
+   },
+   {
+    "subject": "Crime",
+    "subject_slug": "crime"
+   },
+   {
+    "subject": "Guns",
+    "subject_slug": "guns"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2013/nov/13/ted-cruz/ted-cruz-says-us-has-averaged-09-percent-growth-ov/",
+  "target": [],
+  "statement_date": "2013-11-08",
+  "statement_context": "an interview on NBC's \"The Tonight Show with Jay Leno\"",
+  "speaker": {
+   "party": {
+    "party": "Republican",
+    "party_slug": "republican"
+   },
+   "first_name": "Ted",
+   "last_name": "Cruz",
+   "name_slug": "ted-cruz",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FTed_Cruz_1.jpg"
+  },
+  "ruling_headline": "Ted Cruz says U.S. has averaged 0.9 percent growth over past four years",
+  "statement": "\u003cp\u003e\u0026quot;In the last four years, our economy has grown on average 0.9 percent a year.\u0026quot;\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "barely-true",
+   "ruling": "Mostly False",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-mostlyfalse.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2013-11-13 12:18:29",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Economy",
+    "subject_slug": "economy"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2013/oct/17/ted-cruz/sen-ted-cruz-says-premiums-have-gone-virtually-eve/",
+  "target": [],
+  "statement_date": "2013-10-16",
+  "statement_context": "a conversation with reporters",
+  "speaker": {
+   "party": {
+    "party": "Republican",
+    "party_slug": "republican"
+   },
+   "first_name": "Ted",
+   "last_name": "Cruz",
+   "name_slug": "ted-cruz",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FTed_Cruz_1.jpg"
+  },
+  "ruling_headline": "Sen. Ted Cruz says premiums have gone 'up and up and up' for 'virtually every person' ",
+  "statement": "\u003cp\u003e\u0026quot;Virtually every person across this country has seen premiums going up and up and up\u0026quot; due to Obamacare.\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "false",
+   "ruling": "False",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-false.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2013-10-17 17:19:44",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Health Care",
+    "subject_slug": "health-care"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2013/sep/30/ted-cruz/ted-cruz-says-strong-bipartisan-majority-house-rep/",
+  "target": [],
+  "statement_date": "2013-09-20",
+  "statement_context": "a news release",
+  "speaker": {
+   "party": {
+    "party": "Republican",
+    "party_slug": "republican"
+   },
+   "first_name": "Ted",
+   "last_name": "Cruz",
+   "name_slug": "ted-cruz",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FTed_Cruz_1.jpg"
+  },
+  "ruling_headline": "Ted Cruz says 'a strong bipartisan majority' in the House of Representatives 'voted to defund Obamacare'",
+  "statement": "\u003cp\u003e\u0026quot;A strong bipartisan majority\u0026quot; in the House of Representatives \u0026quot;voted to defund Obamacare.\u0026quot;\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "false",
+   "ruling": "False",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-false.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2013-09-30 17:22:41",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Congressional Rules",
+    "subject_slug": "congressional-rules"
+   },
+   {
+    "subject": "Federal Budget",
+    "subject_slug": "federal-budget"
+   },
+   {
+    "subject": "Health Care",
+    "subject_slug": "health-care"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2013/sep/26/ted-cruz/ted-cruz-says-policy-change-ups-left-employees-spo/",
+  "target": [],
+  "statement_date": "2013-09-24",
+  "statement_context": "a Senate floor speech",
+  "speaker": {
+   "party": {
+    "party": "Republican",
+    "party_slug": "republican"
+   },
+   "first_name": "Ted",
+   "last_name": "Cruz",
+   "name_slug": "ted-cruz",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FTed_Cruz_1.jpg"
+  },
+  "ruling_headline": "Ted Cruz says policy change by UPS left employees’ spouses “without health insurance”",
+  "statement": "\u003cp\u003eUPS left 15,000 employees\u0026rsquo; spouses \u0026quot;without health insurance\u0026quot; and told them to, \u0026quot;go on an exchange with no employer subsidy.\u0026quot;\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "false",
+   "ruling": "False",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-false.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2013-09-26 17:32:17",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Families",
+    "subject_slug": "families"
+   },
+   {
+    "subject": "Health Care",
+    "subject_slug": "health-care"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2013/aug/14/ted-cruz/sen-ted-cruz-says-obama-just-granted-all-congress-/",
+  "target": [
+   {
+    "party": {
+     "party": "Democrat",
+     "party_slug": "democrat"
+    },
+    "first_name": "Barack",
+    "last_name": "Obama",
+    "name_slug": "barack-obama",
+    "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2Fobamamug_1.jpg"
+   }
+  ],
+  "statement_date": "2013-08-10",
+  "statement_context": "a speech to the Family Leadership Summit in Ames, Iowa",
+  "speaker": {
+   "party": {
+    "party": "Republican",
+    "party_slug": "republican"
+   },
+   "first_name": "Ted",
+   "last_name": "Cruz",
+   "name_slug": "ted-cruz",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FTed_Cruz_1.jpg"
+  },
+  "ruling_headline": "Sen. Ted Cruz says Obama 'just granted all of Congress an exception' to Obamacare",
+  "statement": "\u003cp\u003eSays \u0026quot;President Obama just granted all of Congress an exception\u0026quot; to Obamacare.\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "false",
+   "ruling": "False",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-false.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2013-08-14 17:59:35",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Congress",
+    "subject_slug": "congress"
+   },
+   {
+    "subject": "Health Care",
+    "subject_slug": "health-care"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2013/jun/27/ted-cruz/border-security-immigration-bill-designed-never/",
+  "target": [],
+  "statement_date": "2013-06-24",
+  "statement_context": "an interview with Fox News",
+  "speaker": {
+   "party": {
+    "party": "Republican",
+    "party_slug": "republican"
+   },
+   "first_name": "Ted",
+   "last_name": "Cruz",
+   "name_slug": "ted-cruz",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FTed_Cruz_1.jpg"
+  },
+  "ruling_headline": "Senate bill has immediate legalization but border security that's 'designed never to come into being,' says Cruz",
+  "statement": "\u003cp\u003e\r\n\tThe Senate immigration bill \u0026quot;has immediate legalization ... and the border security is sometime in the future, and just like in 1986, it\u0026#39;s designed never to come into being.\u0026quot;\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "barely-true",
+   "ruling": "Mostly False",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-mostlyfalse.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2013-06-27 13:51:38",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Corrections and Updates",
+    "subject_slug": "corrections-and-updates"
+   },
+   {
+    "subject": "Immigration",
+    "subject_slug": "immigration"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2013/apr/08/ted-cruz/ted-cruz-says-expanding-medicaid-will-worsen-healt/",
+  "target": [],
+  "statement_date": "2013-04-01",
+  "statement_context": "remarks in Austin, Texas",
+  "speaker": {
+   "party": {
+    "party": "Republican",
+    "party_slug": "republican"
+   },
+   "first_name": "Ted",
+   "last_name": "Cruz",
+   "name_slug": "ted-cruz",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FTed_Cruz_1.jpg"
+  },
+  "ruling_headline": "Ted Cruz says expanding Medicaid will \"worsen health care options for the most vulnerable\"",
+  "statement": "\u003cp\u003e\r\n\t\u0026quot;Expanding Medicaid will worsen health care options for the most vulnerable among us in Texas.\u0026quot;\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "false",
+   "ruling": "False",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-false.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2013-04-08 11:40:38",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Health Care",
+    "subject_slug": "health-care"
+   },
+   {
+    "subject": "Medicaid",
+    "subject_slug": "medicaid"
+   },
+   {
+    "subject": "Poverty",
+    "subject_slug": "poverty"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2013/mar/21/ted-cruz/sen-ted-cruz-says-federal-government-thinks-it-has/",
+  "target": [],
+  "statement_date": "2013-03-16",
+  "statement_context": "a speech at CPAC",
+  "speaker": {
+   "party": {
+    "party": "Republican",
+    "party_slug": "republican"
+   },
+   "first_name": "Ted",
+   "last_name": "Cruz",
+   "name_slug": "ted-cruz",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FTed_Cruz_1.jpg"
+  },
+  "ruling_headline": "Sen. Ted Cruz says the federal government thinks it has ‘authority to regulate our toilet seats’",
+  "statement": "\u003cp\u003e\r\n\t\u0026quot;We have a federal government that thinks they have the authority to regulate our toilet seats.\u0026quot;\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "true",
+   "ruling": "True",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Frulings%2Frulings-tom-true.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2013-03-21 16:48:45",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Consumer Safety",
+    "subject_slug": "consumer-safety"
+   },
+   {
+    "subject": "Corrections and Updates",
+    "subject_slug": "corrections-and-updates"
+   },
+   {
+    "subject": "Government regulation",
+    "subject_slug": "government-regulation"
+   },
+   {
+    "subject": "Regulation",
+    "subject_slug": "market-regulation"
+   },
+   {
+    "subject": "States",
+    "subject_slug": "states"
+   },
+   {
+    "subject": "Supreme Court",
+    "subject_slug": "supreme-court"
+   },
+   {
+    "subject": "Workers",
+    "subject_slug": "workers"
+   }
+  ]
+ },
+ {
+  "statement_url": "http://www.politifact.com/truth-o-meter/statements/2012/mar/21/ted-cruz/ted-cruz-says-health-reforms-price-tag-has-doubled/",
+  "target": [],
+  "statement_date": "2012-03-19",
+  "statement_context": "a tweet.",
+  "speaker": {
+   "party": {
+    "party": "Republican",
+    "party_slug": "republican"
+   },
+   "first_name": "Ted",
+   "last_name": "Cruz",
+   "name_slug": "ted-cruz",
+   "canonical_photo": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fmugs%2FTed_Cruz_1.jpg"
+  },
+  "ruling_headline": "Ted Cruz says health reform’s price tag has doubled",
+  "statement": "\u003cp\u003e\r\n\t\u0026quot;Did you know ObamaCare will cost nearly twice as much as initially expected -- $1.8 TRILLION?\u0026quot;\u003c/p\u003e\r\n",
+  "ruling": {
+   "ruling_slug": "false",
+   "ruling": "False",
+   "canonical_ruling_graphic": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-false.gif"
+  },
+  "ruling_link_test": "",
+  "ruling_date": "2012-03-21 12:58:21",
+  "statement_type": {
+   "statement_type": "Claim"
+  },
+  "subject": [
+   {
+    "subject": "Health Care",
+    "subject_slug": "health-care"
+   }
+  ]
+ }
+]
