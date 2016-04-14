@@ -57,7 +57,7 @@ type Statement struct {
 	RulingHeadline   string        `json:"ruling_headline"`
 	Statement        string        `json:"statement"`
 	Ruling           Ruling        `json:"ruling"`
-	RulingLinkText   string        `json:"ruling_link_test"`
+	RulingLinkTest   string        `json:"ruling_link_test"`
 	RulingDate       string        `json:"ruling_date"`
 	StatementType    StatementType `json:"statement_type"`
 	Subject          []Subject     `json:"subject"`
