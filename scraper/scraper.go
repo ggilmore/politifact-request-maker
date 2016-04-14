@@ -2,7 +2,6 @@ package scraper
 
 import (
 	"encoding/json"
-	"fmt"
 	"io/ioutil"
 	"net/http"
 	"os"
@@ -22,7 +21,8 @@ func handleError(e error) {
 	}
 }
 
-//writes a json file of people
+//WritePersonFile writes a json file of people
+//map of person_slug -> person
 func WritePersonFile(ps []Person, fName string) int {
 
 	nameMap := make(map[string]string)
@@ -46,7 +46,8 @@ func WritePersonFile(ps []Person, fName string) int {
 	return bytes
 }
 
-//writes a json file of subjects
+//WriteSubjectFile writes a json file of subjects
+//map of subject_slug -> slug
 func WriteSubjectFile(subs []Subject, fName string) int {
 	subMap := make(map[string]string)
 
@@ -137,26 +138,14 @@ func SortBySubject(stmts []Statement) map[string][]Statement {
 
 	for _, stmt := range stmts {
 		for _, sub := range stmt.Subject {
-			list, pres := groupMap[sub.SubjectSlug]
+			list, _ := groupMap[sub.SubjectSlug]
 
-			var cp Statement
-			deepcopy(&cp, stmt)
-
-			if !pres {
-				newList := make([]Statement, 1)
-				newList = append(newList, stmt)
-				groupMap[sub.SubjectSlug] = newList
-			} else {
-				list = append(list, stmt)
-				groupMap[sub.SubjectSlug] = list
-			}
+			list = append(list, stmt)
+			groupMap[sub.SubjectSlug] = list
 
 		}
 	}
 
-	bytes, err := json.Marshal(groupMap)
-	handleError(err)
-	fmt.Println(string(bytes))
 	return groupMap
 }
 

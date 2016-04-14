@@ -1,24 +1,5 @@
 package scraper
 
-import (
-	"encoding/gob"
-	"os"
-)
-
-func deepcopy(dst, src interface{}) error {
-	r, w, err := os.Pipe()
-	if err != nil {
-		return err
-	}
-	enc := gob.NewEncoder(w)
-	err = enc.Encode(src)
-	if err != nil {
-		return err
-	}
-	dec := gob.NewDecoder(r)
-	return dec.Decode(dst)
-}
-
 type Subject struct {
 	Subject     string `json:"subject"`
 	SubjectSlug string `json:"subject_slug"`

@@ -5,7 +5,6 @@ import (
 	"os"
 	"path/filepath"
 	"strconv"
-    "encoding/json"
 
 	"github.com/ggilmore/wevote-scraper/scraper"
 )
@@ -16,9 +15,6 @@ var subjectsJSON, _ = filepath.Abs("../wevote-scraper/resources/subjects.json")
 const USAGE = "[METHOD (PERSON OR SUBJECT)] [NAME_RESOURCE] [MAX_ITEMS] [OUTPUT_DIR]"
 
 func main() {
-    nums := make
-    json.Marshal()
-
 	if len(os.Args) != 5 {
 		fmt.Println("Need 3 args.")
 		fmt.Println(USAGE)
