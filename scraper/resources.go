@@ -1,5 +1,24 @@
 package scraper
 
+import (
+	"encoding/gob"
+	"os"
+)
+
+func deepcopy(dst, src interface{}) error {
+	r, w, err := os.Pipe()
+	if err != nil {
+		return err
+	}
+	enc := gob.NewEncoder(w)
+	err = enc.Encode(src)
+	if err != nil {
+		return err
+	}
+	dec := gob.NewDecoder(r)
+	return dec.Decode(dst)
+}
+
 type Subject struct {
 	Subject     string `json:"subject"`
 	SubjectSlug string `json:"subject_slug"`
@@ -57,7 +76,7 @@ type Statement struct {
 	RulingHeadline   string        `json:"ruling_headline"`
 	Statement        string        `json:"statement"`
 	Ruling           Ruling        `json:"ruling"`
-	RulingLinkText   string        `json:"ruling_link_test"`
+	RulingLinkTest   string        `json:"ruling_link_test"`
 	RulingDate       string        `json:"ruling_date"`
 	StatementType    StatementType `json:"statement_type"`
 	Subject          []Subject     `json:"subject"`

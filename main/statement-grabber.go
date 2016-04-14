@@ -5,6 +5,7 @@ import (
 	"os"
 	"path/filepath"
 	"strconv"
+    "encoding/json"
 
 	"github.com/ggilmore/wevote-scraper/scraper"
 )
@@ -15,6 +16,8 @@ var subjectsJSON, _ = filepath.Abs("../wevote-scraper/resources/subjects.json")
 const USAGE = "[METHOD (PERSON OR SUBJECT)] [NAME_RESOURCE] [MAX_ITEMS] [OUTPUT_DIR]"
 
 func main() {
+    nums := make
+    json.Marshal()
 
 	if len(os.Args) != 5 {
 		fmt.Println("Need 3 args.")
@@ -34,27 +37,27 @@ func main() {
 
 	dir := os.Args[4]
 
-	var bytes int
+	var bytes int64
 	var path string
 
 	switch method {
 	case "person":
 		cleanName := scraper.NameSlugFromFile(name, peopleJSON)
-		statements := scraper.StatementRequest(scraper.ByPerson, cleanName, n)
+		statements := scraper.SortBySubject(scraper.StatementRequest(scraper.ByPerson, cleanName, n))
 		path = dir + cleanName + "-statements.json"
-		bytes = scraper.WriteStatementFile(statements, dir+name+"-statements.json")
+		bytes = scraper.WriteSortedStatementFile(statements, path)
 
 	case "subject":
 		cleanName := scraper.NameSlugFromFile(name, subjectsJSON)
 		statements := scraper.StatementRequest(scraper.BySubject, cleanName, n)
 		path = dir + cleanName + "-statements.json"
-		bytes = scraper.WriteStatementFile(statements, dir+name+"-statements.json")
+		bytes = scraper.WriteStatementFile(statements, path)
 
 	default:
 		fmt.Println(USAGE)
 		os.Exit(1)
 	}
 
-	fmt.Println("Wrote " + strconv.Itoa(bytes) + "bytes to: " + path + ".")
+	fmt.Println("Wrote " + strconv.FormatInt(bytes, 10) + " bytes to: " + path + ".")
 	os.Exit(0)
 }
