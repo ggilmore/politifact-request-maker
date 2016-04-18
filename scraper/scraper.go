@@ -115,7 +115,7 @@ func statementEndp(met StatementMethod, nslg string, n int) string {
 	default:
 		panic("Unhandled statement method")
 	}
-	return "http://www.politifact.com/api/statements/truth-o-meter/" + method + "/" + nslg + "/json/?n=" + strconv.Itoa(n)
+	return StatementEndpoint + method + "/" + nslg + "/json/?n=" + strconv.Itoa(n)
 }
 
 func StatementRequest(met StatementMethod, name string, n int) []Statement {
@@ -131,6 +131,20 @@ func StatementRequest(met StatementMethod, name string, n int) []Statement {
 	handleError(jsonErr)
 
 	return r
+}
+
+func StatementsByDate(n int) []Statement {
+	resp, err := http.Get(StatementEndpoint + "?n=" + strconv.Itoa(n))
+	defer resp.Body.Close()
+
+	handleError(err)
+	var r []Statement
+	jsonErr := json.NewDecoder(resp.Body).Decode(&r)
+
+	handleError(jsonErr)
+
+	return r
+
 }
 
 func SortBySubject(stmts []Statement) map[string][]Statement {
@@ -179,7 +193,7 @@ func WriteSortedStatementFile(ss map[string][]Statement, fName string) int64 {
 	return stat.Size()
 }
 
-func NameSlugFromFile(name string, fName string) string {
+func NameSlugFromFile(name, fName string) string {
 
 	dat, readErr := ioutil.ReadFile(fName)
 	handleError(readErr)
