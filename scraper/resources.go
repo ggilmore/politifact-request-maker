@@ -1,5 +1,7 @@
 package scraper
 
+//this file contains all the struct definitions for the politifact responses
+
 type Subject struct {
 	Subject     string `json:"subject"`
 	SubjectSlug string `json:"subject_slug"`
@@ -18,9 +20,14 @@ type Party struct {
 	PartySlug string `json:"party_slug"`
 }
 
+//PersonEndpoint -> endpoint to request person objects
 const PersonEndpoint string = "http://www.politifact.com/api/people/all/json/"
 
+//PersonEndpoint -> endpoint to request subject objects
 const SubjectEndpoint string = "http://www.politifact.com/api/subjects/all/json/"
+
+//StatementEndpoint -> endpoint to request statements
+const StatementEndpoint string = "http://www.politifact.com/api/statements/truth-o-meter/json/"
 
 type Ruling struct {
 	RulingSlug       string `json:"ruling_slug"`
@@ -69,3 +76,26 @@ const (
 	ByPerson StatementMethod = iota
 	BySubject
 )
+
+func stmtsToMap(s []Statement) map[string]Statement {
+	out := make(map[string]Statement)
+	for _, stmt := range s {
+		out[stmt.RulingDate] = stmt
+	}
+	return out
+}
+
+func DiffStmts(old, new []Statement) []Statement {
+	var out []Statement
+	oldMap := stmtsToMap(old)
+	newMap := stmtsToMap(new)
+
+	for date, stmt := range newMap {
+		_, pres := oldMap[date]
+		if !pres {
+			out = append(out, stmt)
+		}
+	}
+
+	return out
+}
