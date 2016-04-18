@@ -79,9 +79,12 @@ from the politifact API at a given time
 `max_concurrent_requests`: the maxmium number of concurrent
 connections that you want the server to have with firebase at a given
 time 
-`root`: the url for your firebase database,
+
+`root`: the url for your firebase database
+
 `people_child_name`: child name for the place where the program should
 put the responses (grouped by people, and then by subject)
+
 `subject_child_name`: child name for the place where the program should
 put the responses (only grouped by subject),
 
