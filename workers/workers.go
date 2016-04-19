@@ -37,7 +37,7 @@ func SendSubjectStatements(maxReq int, peopleEndpoint, subjectsEndpoint string, 
 				<-resources
 
 				go func(name string) {
-					err := f.Child(peopleEndpoint).Child(name).Set(subToStmt)
+					err := f.Child(peopleEndpoint).Child(name).Update(subToStmt)
 					if err != nil {
 						log.Fatalf("Error when sending statement %v to peopleEndpoint: %v", subToStmt, err)
 					}
@@ -48,7 +48,7 @@ func SendSubjectStatements(maxReq int, peopleEndpoint, subjectsEndpoint string, 
 			//send to ~/subject/date=stmt
 			<-resources
 			go func() {
-				err := f.Child(subjectsEndpoint).Child(sub.SubjectSlug).Set(dateID)
+				err := f.Child(subjectsEndpoint).Child(sub.SubjectSlug).Update(dateID)
 				if err != nil {
 					log.Fatalf("Error when sending statement %v to subcjectsEndpoint: %v", subToStmt, err)
 				}
