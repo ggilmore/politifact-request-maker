@@ -23,37 +23,34 @@ func SendSubjectStatements(maxReq int, peopleEndpoint, subjectsEndpoint string, 
 	}
 
 	for s := range src {
-		dateID := make(map[string]scraper.Statement)
-		dateID[s.RulingDate] = s
 
 		for _, sub := range s.Subject {
 
-			subToStmt := make(map[string]map[string]scraper.Statement)
-
-			subToStmt[sub.SubjectSlug] = dateID
 			//send to ~/person/subject/date=stmt
 			for _, p := range s.Target {
 
 				<-resources
 
-				go func(name string) {
-					err := f.Child(peopleEndpoint).Child(name).Update(subToStmt)
+				go func(name, sub, date string, s scraper.Statement) {
+					err := f.Child(peopleEndpoint).Child(name).Child(sub).Child(date).Set(s)
 					if err != nil {
-						log.Fatalf("Error when sending statement %v to peopleEndpoint: %v", subToStmt, err)
+						log.Fatalf("Error when sending statement %v to endpoint: %v/%v/%v/%v \n err: %v",
+							s, peopleEndpoint, name, sub, date, err)
 					}
 					resources <- token{}
-				}(p.NameSlug)
+				}(p.NameSlug, sub.SubjectSlug, s.RulingDate, s)
 			}
 
 			//send to ~/subject/date=stmt
 			<-resources
-			go func() {
-				err := f.Child(subjectsEndpoint).Child(sub.SubjectSlug).Update(dateID)
+			go func(sub, date string, s scraper.Statement) {
+				err := f.Child(subjectsEndpoint).Child(sub).Child(date).Set(s)
 				if err != nil {
-					log.Fatalf("Error when sending statement %v to subcjectsEndpoint: %v", subToStmt, err)
+					log.Fatalf("Error when sending statement %v to endpoint: %v/%v/%v \n  err: %v", s,
+						subjectsEndpoint, sub, date, err)
 				}
 				resources <- token{}
-			}()
+			}(sub.SubjectSlug, s.RulingDate, s)
 		}
 	}
 }
