@@ -11,7 +11,7 @@ import (
 type token struct{}
 
 //SendSubjectStatements - routine that endlessly pushes statements to Firebase
-func SendSubjectStatements(maxReq int, peopleEndpoint, subjectsEndpoint string, src <-chan scraper.Statement, f *firego.Firebase) {
+func SendSubjectStatements(maxReq int, peopleEndpoint, subjectsEndpoint string, src chan scraper.Statement, f *firego.Firebase) {
 
 	//simple semaphore to control the maxmium number of concurrent requests
 	//that we can have at any given time
@@ -34,8 +34,10 @@ func SendSubjectStatements(maxReq int, peopleEndpoint, subjectsEndpoint string, 
 				go func(name, sub, date string, s scraper.Statement) {
 					err := f.Child(peopleEndpoint).Child(name).Child(sub).Child(date).Set(s)
 					if err != nil {
-						log.Fatalf("Error when sending statement %v to endpoint: %v/%v/%v/%v \n err: %v",
+						log.Printf("Error when sending statement %v to endpoint: %v/%v/%v/%v \n. Retrying... \n err: %v",
 							s, peopleEndpoint, name, sub, date, err)
+						//try again, probably EOF
+						src <- s
 					}
 					resources <- token{}
 				}(p.NameSlug, sub.SubjectSlug, s.RulingDate, s)
@@ -46,8 +48,10 @@ func SendSubjectStatements(maxReq int, peopleEndpoint, subjectsEndpoint string, 
 			go func(sub, date string, s scraper.Statement) {
 				err := f.Child(subjectsEndpoint).Child(sub).Child(date).Set(s)
 				if err != nil {
-					log.Fatalf("Error when sending statement %v to endpoint: %v/%v/%v \n  err: %v", s,
+					log.Printf("Error when sending statement %v to endpoint: %v/%v/%v \n  err: %v", s,
 						subjectsEndpoint, sub, date, err)
+					//try again, probably EOF
+					src <- s
 				}
 				resources <- token{}
 			}(sub.SubjectSlug, s.RulingDate, s)
