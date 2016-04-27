@@ -27,7 +27,10 @@ const PersonEndpoint string = "http://www.politifact.com/api/people/all/json/"
 const SubjectEndpoint string = "http://www.politifact.com/api/subjects/all/json/"
 
 //StatementEndpoint -> endpoint to request statements
-const StatementEndpoint string = "http://www.politifact.com/api/statements/truth-o-meter/json/"
+const StatementEndpoint string = "http://www.politifact.com/api/statements/truth-o-meter/"
+
+//RSSEndpoint -> endpoint to request rss feeds
+const RSSEndpoint string = "http://www.politifact.com/feeds/about/"
 
 type Ruling struct {
 	RulingSlug       string `json:"ruling_slug"`
@@ -75,6 +78,7 @@ type StatementMethod int
 const (
 	ByPerson StatementMethod = iota
 	BySubject
+	NoMethod
 )
 
 func stmtsToMap(s []Statement) map[string]Statement {
@@ -99,3 +103,14 @@ func DiffStmts(old, new []Statement) []Statement {
 
 	return out
 }
+
+// func DiffRSS(old, new []map[string]struct{}) map[string]struct{} {
+// 	out := make(map[string]struct{})
+// 	for id, v := range new {
+// 		_, pres := old[id]
+// 		if !pres {
+// 			out[id] = v
+// 		}
+// 	}
+// 	return out
+// }

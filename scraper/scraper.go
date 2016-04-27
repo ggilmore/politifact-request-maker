@@ -2,11 +2,13 @@ package scraper
 
 import (
 	"encoding/json"
-	"io/ioutil"
+	"fmt"
 	"net/http"
 	"os"
 	"strconv"
 	"strings"
+
+	"github.com/ggilmore/politifact-request-maker/resources"
 )
 
 //normalizes all names to the same format
@@ -108,14 +110,20 @@ func MakeSubjectRequest(endpoint string) []Subject {
 func statementEndp(met StatementMethod, nslg string, n int) string {
 	var method string
 	switch met {
+	case NoMethod:
+		method = ""
+		nslg = "/"
 	case ByPerson:
-		method = "people"
+		method = "people/"
+		nslg = nslg + "/"
 	case BySubject:
-		method = "subjects"
+		method = "subjects/"
+		nslg = nslg + "/"
 	default:
 		panic("Unhandled statement method")
 	}
-	return StatementEndpoint + method + "/" + nslg + "/json/?n=" + strconv.Itoa(n)
+
+	return StatementEndpoint + method + nslg + "json/?n=" + strconv.Itoa(n)
 }
 
 func StatementRequest(met StatementMethod, name string, n int) []Statement {
@@ -130,11 +138,12 @@ func StatementRequest(met StatementMethod, name string, n int) []Statement {
 
 	handleError(jsonErr)
 
+	fmt.Println("done")
 	return r
 }
 
 func StatementsByDate(n int) []Statement {
-	resp, err := http.Get(StatementEndpoint + "?n=" + strconv.Itoa(n))
+	resp, err := http.Get(statementEndp(NoMethod, "", n))
 	defer resp.Body.Close()
 
 	handleError(err)
@@ -193,18 +202,10 @@ func WriteSortedStatementFile(ss map[string][]Statement, fName string) int64 {
 	return stat.Size()
 }
 
-func NameSlugFromFile(name, fName string) string {
-
-	dat, readErr := ioutil.ReadFile(fName)
-	handleError(readErr)
-
-	var nameMap map[string]string
-
-	jErr := json.Unmarshal(dat, &nameMap)
-	handleError(jErr)
+func NameSlug(name string) string {
 
 	cleanName := sanitizeName(name)
 
-	return nameMap[cleanName]
+	return resources.PeopleSlugMap[cleanName]
 
 }

@@ -4,7 +4,6 @@ import (
 	"fmt"
 	"log"
 	"os"
-	"path/filepath"
 	"strconv"
 
 	"github.com/ggilmore/politifact-request-maker/config"
@@ -13,9 +12,6 @@ import (
 
 	"github.com/zabawaba99/firego"
 )
-
-var peopleJSON, _ = filepath.Abs("../politifact-request-maker/resources/people.json")
-var subjectsJSON, _ = filepath.Abs("../politifact-request-maker/resources/subjects.json")
 
 const USAGE = "[METHOD (\"person\" or \"subject\")] [NAME_RESOURCE] [MAX_ITEMS] [OUTPUT_DIR] \n OR \n \"serve\" [CONFIG_FILE_PATH]"
 
@@ -40,13 +36,13 @@ func handleStatements(method scraper.StatementMethod, args []string) {
 
 	switch method {
 	case scraper.ByPerson:
-		cleanName := scraper.NameSlugFromFile(name, peopleJSON)
+		cleanName := scraper.NameSlug(name)
 		statements := scraper.SortBySubject(scraper.StatementRequest(scraper.ByPerson, cleanName, n))
 		path = dir + cleanName + "-statements.json"
 		bytes = scraper.WriteSortedStatementFile(statements, path)
 
 	case scraper.BySubject:
-		cleanName := scraper.NameSlugFromFile(name, subjectsJSON)
+		cleanName := scraper.NameSlug(name)
 		statements := scraper.StatementRequest(scraper.BySubject, cleanName, n)
 		path = dir + cleanName + "-statements.json"
 		bytes = scraper.WriteStatementFile(statements, path)
@@ -56,7 +52,7 @@ func handleStatements(method scraper.StatementMethod, args []string) {
 		os.Exit(1)
 	}
 
-	log.Print("Wrote %v bytes to: %v path .", strconv.FormatInt(bytes, 10), path)
+	log.Printf("Wrote %v bytes to: %v path .", strconv.FormatInt(bytes, 10), path)
 	os.Exit(0)
 }
 
@@ -77,16 +73,30 @@ func main() {
 			log.Fatalf("%v \n %v", USAGE, err)
 		}
 
-		inbound := make(chan []scraper.Statement)
-		outbound := make(chan scraper.Statement)
+		inStmts := make(chan []scraper.Statement)
+		outStmts := make(chan scraper.Statement)
+
+		cs := make(chan workers.Connection, config.Firebase.MaxConcurrentReqs)
+
+		for i := 0; i < config.Firebase.MaxConcurrentReqs; i++ {
+			cs <- workers.Connection{}
+		}
 
 		fb := firego.New(config.Firebase.Root, nil)
 
-		go workers.DiffStatements(inbound, outbound)
+		var rssSlugs []string
+		for _, n := range config.Politifact.RSSNames {
+			rssSlugs = append(rssSlugs, scraper.NameSlug(n))
 
-		go workers.MakePolitifactRequests(config.Politifact.RequestRate, config.Politifact.RequestSize, inbound)
+		}
 
-		workers.SendSubjectStatements(config.Firebase.MaxConcurrentReqs, config.Firebase.PeopleChildName, config.Firebase.SubjectsChildName, outbound, fb)
+		go workers.SetupRSS(config.Politifact.RequestRate, rssSlugs, cs, config.Firebase.StoriesChildName, fb)
+
+		go workers.DiffStatements(inStmts, outStmts)
+
+		go workers.MakePolitifactRequests(config.Politifact.RequestRate, config.Politifact.RequestSize, inStmts)
+
+		workers.SendSubjectStatements(cs, config.Firebase.PeopleChildName, config.Firebase.SubjectsChildName, outStmts, fb)
 
 	default:
 		log.Fatal(USAGE)
